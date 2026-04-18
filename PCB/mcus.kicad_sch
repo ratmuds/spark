@@ -19475,6 +19475,17 @@
 				)
 			)
 		)
+		(property "MPN" "TS-1088-AR02016"
+			(at 146.05 60.96 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "0b9d614f-cf62-448a-93e5-fb783dc3e814")
 		)
@@ -23304,6 +23315,17 @@
 			)
 		)
 		(property "SUPPLIER" ""
+			(at 146.05 85.09 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "TS-1088-AR02016"
 			(at 146.05 85.09 0)
 			(hide yes)
 			(show_name no)

@@ -113,7 +113,6 @@
 		)
 		(capping no)
 		(filling no)
-		(zone_defaults)
 		(pcbplotparams
 			(layerselection 0x00000000_00000000_55555555_5755f5ff)
 			(plot_on_all_layers_selection 0x00000000_00000000_00000000_00000000)
@@ -423,7 +422,7 @@
 			)
 		)
 		(property ki_fp_filters "R_*")
-		(path "/a3367222-908f-43fd-8692-1220d89bfe2d/482935dc-36fc-460a-b618-77d7bbabee59")
+		(path "/1cf70a63-bc89-4c77-80be-2385eb922ac9/482935dc-36fc-460a-b618-77d7bbabee59")
 		(sheetname "/Power/")
 		(sheetfile "power.kicad_sch")
 		(units
@@ -756,7 +755,7 @@
 			)
 		)
 		(property ki_fp_filters "Choke_* *Coil* Inductor_* L_*")
-		(path "/bd07adf9-511c-4f78-9c21-91371a1c472e/ecd7e1ad-ee88-48a1-9b8d-97781ad77256")
+		(path "/3a1dac3c-102c-46e8-a8af-e81f9ea432d5/ecd7e1ad-ee88-48a1-9b8d-97781ad77256")
 		(sheetname "/MCUs/")
 		(sheetfile "mcus.kicad_sch")
 		(units
@@ -1112,7 +1111,7 @@
 			)
 		)
 		(property ki_fp_filters "SOT?666*")
-		(path "/d8f78fc9-ef33-475d-a645-b983ce9bc4c5/9edf892b-4537-44f7-9221-7a5f8c386e7a")
+		(path "/7168a8f8-04ea-40a2-91f0-13199f1eab65/9edf892b-4537-44f7-9221-7a5f8c386e7a")
 		(sheetname "/USB/")
 		(sheetfile "usb.kicad_sch")
 		(units
@@ -1591,7 +1590,7 @@
 			)
 		)
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
-		(path "/aecf4e15-7b03-4a48-80e0-ac4b2ea4cebe/47beae2e-89d2-45b1-ac3c-14c909aa910b")
+		(path "/4bc1336a-0ac7-4452-a01a-704f056757eb/47beae2e-89d2-45b1-ac3c-14c909aa910b")
 		(sheetname "/Analyzer/")
 		(sheetfile "analyzer.kicad_sch")
 		(units
@@ -2107,7 +2106,7 @@
 			)
 		)
 		(property ki_fp_filters "C_*")
-		(path "/bd07adf9-511c-4f78-9c21-91371a1c472e/0b19d761-21e0-4d98-b171-f919c5f93eab")
+		(path "/3a1dac3c-102c-46e8-a8af-e81f9ea432d5/0b19d761-21e0-4d98-b171-f919c5f93eab")
 		(sheetname "/MCUs/")
 		(sheetfile "mcus.kicad_sch")
 		(units
@@ -2512,7 +2511,7 @@
 			)
 		)
 		(property ki_fp_filters "C_*")
-		(path "/a3367222-908f-43fd-8692-1220d89bfe2d/03de7890-4b31-4c5f-9967-8274cf09d05b")
+		(path "/1cf70a63-bc89-4c77-80be-2385eb922ac9/03de7890-4b31-4c5f-9967-8274cf09d05b")
 		(sheetname "/Power/")
 		(sheetfile "power.kicad_sch")
 		(units
@@ -2879,7 +2878,7 @@
 			)
 		)
 		(property ki_fp_filters "R_*")
-		(path "/a3367222-908f-43fd-8692-1220d89bfe2d/2ea462fc-81a1-488e-87cf-9bd3b604c091")
+		(path "/1cf70a63-bc89-4c77-80be-2385eb922ac9/2ea462fc-81a1-488e-87cf-9bd3b604c091")
 		(sheetname "/Power/")
 		(sheetfile "power.kicad_sch")
 		(units
@@ -3220,7 +3219,7 @@
 			)
 		)
 		(property ki_fp_filters "Texas*RGE0024H*")
-		(path "/d8f78fc9-ef33-475d-a645-b983ce9bc4c5/8f207cd0-abb5-4d36-a3e3-14f8a730c584")
+		(path "/7168a8f8-04ea-40a2-91f0-13199f1eab65/8f207cd0-abb5-4d36-a3e3-14f8a730c584")
 		(sheetname "/USB/")
 		(sheetfile "usb.kicad_sch")
 		(units
@@ -4231,7 +4230,7 @@
 			)
 		)
 		(property ki_fp_filters "C_*")
-		(path "/aecf4e15-7b03-4a48-80e0-ac4b2ea4cebe/d49ac599-7a74-4589-9c3f-20393f072f55")
+		(path "/4bc1336a-0ac7-4452-a01a-704f056757eb/d49ac599-7a74-4589-9c3f-20393f072f55")
 		(sheetname "/Analyzer/")
 		(sheetfile "analyzer.kicad_sch")
 		(units
@@ -4598,7 +4597,7 @@
 			)
 		)
 		(property ki_fp_filters "R_*")
-		(path "/aecf4e15-7b03-4a48-80e0-ac4b2ea4cebe/d6d370a4-7e8d-4f5e-b1f8-230181c8601f")
+		(path "/4bc1336a-0ac7-4452-a01a-704f056757eb/d6d370a4-7e8d-4f5e-b1f8-230181c8601f")
 		(sheetname "/Analyzer/")
 		(sheetfile "analyzer.kicad_sch")
 		(units
@@ -4965,7 +4964,7 @@
 			)
 		)
 		(property ki_fp_filters "C_*")
-		(path "/a3367222-908f-43fd-8692-1220d89bfe2d/855b0e5d-cb12-4584-ba2c-cd61af73a195")
+		(path "/1cf70a63-bc89-4c77-80be-2385eb922ac9/855b0e5d-cb12-4584-ba2c-cd61af73a195")
 		(sheetname "/Power/")
 		(sheetfile "power.kicad_sch")
 		(units
@@ -5315,7 +5314,7 @@
 			)
 		)
 		(property ki_fp_filters "*polyfuse* *PTC*")
-		(path "/aecf4e15-7b03-4a48-80e0-ac4b2ea4cebe/0622f686-f9bf-4aa9-acb0-925c5598ea64")
+		(path "/4bc1336a-0ac7-4452-a01a-704f056757eb/0622f686-f9bf-4aa9-acb0-925c5598ea64")
 		(sheetname "/Analyzer/")
 		(sheetfile "analyzer.kicad_sch")
 		(units
@@ -5725,7 +5724,7 @@
 			)
 		)
 		(property ki_fp_filters "R_*")
-		(path "/aecf4e15-7b03-4a48-80e0-ac4b2ea4cebe/def0e37b-6818-4f27-ab7e-9898a80608a8")
+		(path "/4bc1336a-0ac7-4452-a01a-704f056757eb/def0e37b-6818-4f27-ab7e-9898a80608a8")
 		(sheetname "/Analyzer/")
 		(sheetfile "analyzer.kicad_sch")
 		(units
@@ -6092,7 +6091,7 @@
 			)
 		)
 		(property ki_fp_filters "C_*")
-		(path "/aecf4e15-7b03-4a48-80e0-ac4b2ea4cebe/b072179e-f49f-45cb-8adf-14a401105ec7")
+		(path "/4bc1336a-0ac7-4452-a01a-704f056757eb/b072179e-f49f-45cb-8adf-14a401105ec7")
 		(sheetname "/Analyzer/")
 		(sheetfile "analyzer.kicad_sch")
 		(units
@@ -6459,9 +6458,9 @@
 			)
 		)
 		(property ki_fp_filters "C_*")
-		(path "/c1c0803a-4d01-4ed2-a512-505b312e7f18")
+		(path "/c067eb84-4965-4024-a3a8-0f91f4f33a90")
 		(sheetname "/")
-		(sheetfile "edge.kicad_sch")
+		(sheetfile "spark.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -6813,7 +6812,7 @@
 			)
 		)
 		(property ki_fp_filters "C_*")
-		(path "/bd07adf9-511c-4f78-9c21-91371a1c472e/afdc5edb-ba0f-4673-9d55-76a1675f130e")
+		(path "/3a1dac3c-102c-46e8-a8af-e81f9ea432d5/afdc5edb-ba0f-4673-9d55-76a1675f130e")
 		(sheetname "/MCUs/")
 		(sheetfile "mcus.kicad_sch")
 		(units
@@ -7180,7 +7179,7 @@
 			)
 		)
 		(property ki_fp_filters "C_*")
-		(path "/a3367222-908f-43fd-8692-1220d89bfe2d/ba0a454c-3dfa-4f5d-ada5-9e4736ba9f54")
+		(path "/1cf70a63-bc89-4c77-80be-2385eb922ac9/ba0a454c-3dfa-4f5d-ada5-9e4736ba9f54")
 		(sheetname "/Power/")
 		(sheetfile "power.kicad_sch")
 		(units
@@ -7547,7 +7546,7 @@
 			)
 		)
 		(property ki_fp_filters "R_*")
-		(path "/aecf4e15-7b03-4a48-80e0-ac4b2ea4cebe/ee14b152-7f1d-46d3-9333-6770f9499a8e")
+		(path "/4bc1336a-0ac7-4452-a01a-704f056757eb/ee14b152-7f1d-46d3-9333-6770f9499a8e")
 		(sheetname "/Analyzer/")
 		(sheetfile "analyzer.kicad_sch")
 		(units
@@ -7901,7 +7900,7 @@
 			)
 		)
 		(property ki_fp_filters "R_*")
-		(path "/d8f78fc9-ef33-475d-a645-b983ce9bc4c5/6e490f19-f509-4ed5-99f6-290cfcb8cabb")
+		(path "/7168a8f8-04ea-40a2-91f0-13199f1eab65/6e490f19-f509-4ed5-99f6-290cfcb8cabb")
 		(sheetname "/USB/")
 		(sheetfile "usb.kicad_sch")
 		(units
@@ -8268,7 +8267,7 @@
 			)
 		)
 		(property ki_fp_filters "C_*")
-		(path "/a3367222-908f-43fd-8692-1220d89bfe2d/7947c106-8ff6-4545-9b42-b5f42cbb6622")
+		(path "/1cf70a63-bc89-4c77-80be-2385eb922ac9/7947c106-8ff6-4545-9b42-b5f42cbb6622")
 		(sheetname "/Power/")
 		(sheetfile "power.kicad_sch")
 		(units
@@ -8570,7 +8569,7 @@
 			)
 		)
 		(property ki_fp_filters "Connector*:*_1x??_*")
-		(path "/aecf4e15-7b03-4a48-80e0-ac4b2ea4cebe/1d13639d-5769-414f-9a17-25879075d15a")
+		(path "/4bc1336a-0ac7-4452-a01a-704f056757eb/1d13639d-5769-414f-9a17-25879075d15a")
 		(sheetname "/Analyzer/")
 		(sheetfile "analyzer.kicad_sch")
 		(units
@@ -8989,7 +8988,7 @@
 			)
 		)
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
-		(path "/aecf4e15-7b03-4a48-80e0-ac4b2ea4cebe/67e7fb79-95a2-4cac-98b2-7999d8424ec5")
+		(path "/4bc1336a-0ac7-4452-a01a-704f056757eb/67e7fb79-95a2-4cac-98b2-7999d8424ec5")
 		(sheetname "/Analyzer/")
 		(sheetfile "analyzer.kicad_sch")
 		(units
@@ -9504,9 +9503,9 @@
 			)
 		)
 		(property ki_fp_filters "R_*")
-		(path "/5f4687a5-16c5-441c-bb09-fbeba75e3378")
+		(path "/44945e39-07fd-4925-8fff-9d4fce51989c")
 		(sheetname "/")
-		(sheetfile "edge.kicad_sch")
+		(sheetfile "spark.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -9858,7 +9857,7 @@
 			)
 		)
 		(property ki_fp_filters "R_*")
-		(path "/a3367222-908f-43fd-8692-1220d89bfe2d/3467528b-903f-451b-9b01-92f2123d449e")
+		(path "/1cf70a63-bc89-4c77-80be-2385eb922ac9/3467528b-903f-451b-9b01-92f2123d449e")
 		(sheetname "/Power/")
 		(sheetfile "power.kicad_sch")
 		(units
@@ -10225,7 +10224,7 @@
 			)
 		)
 		(property ki_fp_filters "C_*")
-		(path "/bd07adf9-511c-4f78-9c21-91371a1c472e/8a43f61a-f1ca-4e22-9eef-43b3d28fe9e9")
+		(path "/3a1dac3c-102c-46e8-a8af-e81f9ea432d5/8a43f61a-f1ca-4e22-9eef-43b3d28fe9e9")
 		(sheetname "/MCUs/")
 		(sheetfile "mcus.kicad_sch")
 		(units
@@ -10592,7 +10591,7 @@
 			)
 		)
 		(property ki_fp_filters "R_*")
-		(path "/bd07adf9-511c-4f78-9c21-91371a1c472e/3543ec04-e030-4eb3-9d21-92ce6a88f8a6")
+		(path "/3a1dac3c-102c-46e8-a8af-e81f9ea432d5/3543ec04-e030-4eb3-9d21-92ce6a88f8a6")
 		(sheetname "/MCUs/")
 		(sheetfile "mcus.kicad_sch")
 		(units
@@ -10959,7 +10958,7 @@
 			)
 		)
 		(property ki_fp_filters "R_*")
-		(path "/bd07adf9-511c-4f78-9c21-91371a1c472e/a01f4fb1-af73-4a74-8a37-cf4998524eec")
+		(path "/3a1dac3c-102c-46e8-a8af-e81f9ea432d5/a01f4fb1-af73-4a74-8a37-cf4998524eec")
 		(sheetname "/MCUs/")
 		(sheetfile "mcus.kicad_sch")
 		(units
@@ -11326,7 +11325,7 @@
 			)
 		)
 		(property ki_fp_filters "C_*")
-		(path "/bd07adf9-511c-4f78-9c21-91371a1c472e/dd4ad108-58e4-46f9-94e5-e37b88b1d0d4")
+		(path "/3a1dac3c-102c-46e8-a8af-e81f9ea432d5/dd4ad108-58e4-46f9-94e5-e37b88b1d0d4")
 		(sheetname "/MCUs/")
 		(sheetfile "mcus.kicad_sch")
 		(units
@@ -11692,7 +11691,7 @@
 			)
 		)
 		(property ki_fp_filters "C_*")
-		(path "/aecf4e15-7b03-4a48-80e0-ac4b2ea4cebe/5a1f87b4-9ab5-4026-b031-e863c6dc7ca1")
+		(path "/4bc1336a-0ac7-4452-a01a-704f056757eb/5a1f87b4-9ab5-4026-b031-e863c6dc7ca1")
 		(sheetname "/Analyzer/")
 		(sheetfile "analyzer.kicad_sch")
 		(units
@@ -12060,7 +12059,7 @@
 			)
 		)
 		(property ki_fp_filters "C_*")
-		(path "/bd07adf9-511c-4f78-9c21-91371a1c472e/e771a325-fc5d-4cef-afb1-28725675255e")
+		(path "/3a1dac3c-102c-46e8-a8af-e81f9ea432d5/e771a325-fc5d-4cef-afb1-28725675255e")
 		(sheetname "/MCUs/")
 		(sheetfile "mcus.kicad_sch")
 		(units
@@ -12465,7 +12464,7 @@
 			)
 		)
 		(property ki_fp_filters "C_*")
-		(path "/d8f78fc9-ef33-475d-a645-b983ce9bc4c5/0904a84b-d862-4519-a6ab-cf9a8a049ec0")
+		(path "/7168a8f8-04ea-40a2-91f0-13199f1eab65/0904a84b-d862-4519-a6ab-cf9a8a049ec0")
 		(sheetname "/USB/")
 		(sheetfile "usb.kicad_sch")
 		(units
@@ -12832,7 +12831,7 @@
 			)
 		)
 		(property ki_fp_filters "R_*")
-		(path "/bd07adf9-511c-4f78-9c21-91371a1c472e/235da797-a8c1-4a68-804f-bd52c7918cb0")
+		(path "/3a1dac3c-102c-46e8-a8af-e81f9ea432d5/235da797-a8c1-4a68-804f-bd52c7918cb0")
 		(sheetname "/MCUs/")
 		(sheetfile "mcus.kicad_sch")
 		(units
@@ -13146,7 +13145,7 @@
 			)
 		)
 		(property ki_fp_filters "ESP32?WROOM?32*")
-		(path "/bd07adf9-511c-4f78-9c21-91371a1c472e/1a14228e-539c-464b-a492-12da37accae1")
+		(path "/3a1dac3c-102c-46e8-a8af-e81f9ea432d5/1a14228e-539c-464b-a492-12da37accae1")
 		(sheetname "/MCUs/")
 		(sheetfile "mcus.kicad_sch")
 		(units
@@ -14422,8 +14421,9 @@
 			)
 		)
 		(property ki_fp_filters "Connector*:*_1x??_*")
+		(path "/4878046f-dc72-4c48-9619-9cad6956dbe4")
 		(sheetname "/")
-		(sheetfile "edge.kicad_sch")
+		(sheetfile "spark.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -14896,7 +14896,7 @@
 			)
 		)
 		(property ki_fp_filters "TSSOP*16*4.4x5mm*P0.65mm*")
-		(path "/d8f78fc9-ef33-475d-a645-b983ce9bc4c5/d57e8c6b-7229-42a4-ab82-c203a636ddba")
+		(path "/7168a8f8-04ea-40a2-91f0-13199f1eab65/d57e8c6b-7229-42a4-ab82-c203a636ddba")
 		(sheetname "/USB/")
 		(sheetfile "usb.kicad_sch")
 		(units
@@ -15529,9 +15529,9 @@
 			)
 		)
 		(property ki_fp_filters "R_*")
-		(path "/971d132a-ea64-4d47-82b6-e581fe35852a")
+		(path "/1d22aae9-3ba4-4e88-9513-77e5f5a7043e")
 		(sheetname "/")
-		(sheetfile "edge.kicad_sch")
+		(sheetfile "spark.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -15897,7 +15897,7 @@
 			)
 		)
 		(property ki_fp_filters "C_*")
-		(path "/bd07adf9-511c-4f78-9c21-91371a1c472e/9b2d076e-9735-489a-839d-91264f817c16")
+		(path "/3a1dac3c-102c-46e8-a8af-e81f9ea432d5/9b2d076e-9735-489a-839d-91264f817c16")
 		(sheetname "/MCUs/")
 		(sheetfile "mcus.kicad_sch")
 		(units
@@ -16253,7 +16253,7 @@
 			)
 		)
 		(property ki_fp_filters "QFN-16_MP8859_00_MNP")
-		(path "/a3367222-908f-43fd-8692-1220d89bfe2d/52110dda-5063-4c40-ae5a-7a30158fd26f")
+		(path "/1cf70a63-bc89-4c77-80be-2385eb922ac9/52110dda-5063-4c40-ae5a-7a30158fd26f")
 		(sheetname "/Power/")
 		(sheetfile "power.kicad_sch")
 		(units
@@ -16895,7 +16895,7 @@
 			)
 		)
 		(property ki_fp_filters "R_*")
-		(path "/aecf4e15-7b03-4a48-80e0-ac4b2ea4cebe/588ddcda-1bcd-4159-a180-1b8f63a427cb")
+		(path "/4bc1336a-0ac7-4452-a01a-704f056757eb/588ddcda-1bcd-4159-a180-1b8f63a427cb")
 		(sheetname "/Analyzer/")
 		(sheetfile "analyzer.kicad_sch")
 		(units
@@ -17241,7 +17241,7 @@
 			)
 		)
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
-		(path "/aecf4e15-7b03-4a48-80e0-ac4b2ea4cebe/391b7a26-5ec3-4f3f-80ac-019694f215ca")
+		(path "/4bc1336a-0ac7-4452-a01a-704f056757eb/391b7a26-5ec3-4f3f-80ac-019694f215ca")
 		(sheetname "/Analyzer/")
 		(sheetfile "analyzer.kicad_sch")
 		(units
@@ -17756,7 +17756,7 @@
 			)
 		)
 		(property ki_fp_filters "C_*")
-		(path "/bd07adf9-511c-4f78-9c21-91371a1c472e/43bf0fc7-631e-4a0c-a2ed-6854b4203477")
+		(path "/3a1dac3c-102c-46e8-a8af-e81f9ea432d5/43bf0fc7-631e-4a0c-a2ed-6854b4203477")
 		(sheetname "/MCUs/")
 		(sheetfile "mcus.kicad_sch")
 		(units
@@ -18123,7 +18123,7 @@
 			)
 		)
 		(property ki_fp_filters "C_*")
-		(path "/bd07adf9-511c-4f78-9c21-91371a1c472e/4db3efba-64e5-4a50-af64-a27bf26c87d8")
+		(path "/3a1dac3c-102c-46e8-a8af-e81f9ea432d5/4db3efba-64e5-4a50-af64-a27bf26c87d8")
 		(sheetname "/MCUs/")
 		(sheetfile "mcus.kicad_sch")
 		(units
@@ -18490,7 +18490,7 @@
 			)
 		)
 		(property ki_fp_filters "R_*")
-		(path "/d8f78fc9-ef33-475d-a645-b983ce9bc4c5/e4dc6704-5754-4c31-9198-9debfe03b94b")
+		(path "/7168a8f8-04ea-40a2-91f0-13199f1eab65/e4dc6704-5754-4c31-9198-9debfe03b94b")
 		(sheetname "/USB/")
 		(sheetfile "usb.kicad_sch")
 		(units
@@ -18857,7 +18857,7 @@
 			)
 		)
 		(property ki_fp_filters "C_*")
-		(path "/bd07adf9-511c-4f78-9c21-91371a1c472e/85636f65-86a7-416b-9ef0-e4a8f287c73c")
+		(path "/3a1dac3c-102c-46e8-a8af-e81f9ea432d5/85636f65-86a7-416b-9ef0-e4a8f287c73c")
 		(sheetname "/MCUs/")
 		(sheetfile "mcus.kicad_sch")
 		(units
@@ -19352,7 +19352,7 @@
 				)
 			)
 		)
-		(path "/bd07adf9-511c-4f78-9c21-91371a1c472e/e80269d9-27b2-41c8-972b-0a2c14c06682")
+		(path "/3a1dac3c-102c-46e8-a8af-e81f9ea432d5/e80269d9-27b2-41c8-972b-0a2c14c06682")
 		(sheetname "/MCUs/")
 		(sheetfile "mcus.kicad_sch")
 		(units
@@ -19797,7 +19797,7 @@
 			)
 		)
 		(property ki_fp_filters "C_*")
-		(path "/a3367222-908f-43fd-8692-1220d89bfe2d/60da1f52-95cb-4646-8fe4-043041904085")
+		(path "/1cf70a63-bc89-4c77-80be-2385eb922ac9/60da1f52-95cb-4646-8fe4-043041904085")
 		(sheetname "/Power/")
 		(sheetfile "power.kicad_sch")
 		(units
@@ -20164,7 +20164,7 @@
 			)
 		)
 		(property ki_fp_filters "R_*")
-		(path "/aecf4e15-7b03-4a48-80e0-ac4b2ea4cebe/24ff2ca1-a229-43d1-86f0-dd36d11500ef")
+		(path "/4bc1336a-0ac7-4452-a01a-704f056757eb/24ff2ca1-a229-43d1-86f0-dd36d11500ef")
 		(sheetname "/Analyzer/")
 		(sheetfile "analyzer.kicad_sch")
 		(units
@@ -20511,9 +20511,9 @@
 			)
 		)
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
-		(path "/264935c8-38ea-43b3-9d14-0010b5473a39")
+		(path "/bd1891e4-a83b-4f10-83f4-6463c33cfb5c")
 		(sheetname "/")
-		(sheetfile "edge.kicad_sch")
+		(sheetfile "spark.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -21006,9 +21006,9 @@
 			)
 		)
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
-		(path "/1617a08c-9a38-4ce4-8d82-42dc5c92d2b5")
+		(path "/8a6ba980-721b-4647-b162-664d1f8ce647")
 		(sheetname "/")
-		(sheetfile "edge.kicad_sch")
+		(sheetfile "spark.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -21349,7 +21349,7 @@
 				)
 			)
 		)
-		(path "/a3367222-908f-43fd-8692-1220d89bfe2d/8b24afb8-c483-48ac-8d6a-019898850d24")
+		(path "/1cf70a63-bc89-4c77-80be-2385eb922ac9/8b24afb8-c483-48ac-8d6a-019898850d24")
 		(sheetname "/Power/")
 		(sheetfile "power.kicad_sch")
 		(units
@@ -21803,9 +21803,9 @@
 			)
 		)
 		(property ki_fp_filters "R_*")
-		(path "/86e59531-b163-4360-87c5-ba824573cb06")
+		(path "/09380a3b-9e82-48ae-ab66-732c07af60fa")
 		(sheetname "/")
-		(sheetfile "edge.kicad_sch")
+		(sheetfile "spark.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -22170,7 +22170,7 @@
 			)
 		)
 		(property ki_fp_filters "R_*")
-		(path "/bd07adf9-511c-4f78-9c21-91371a1c472e/1bb13b99-1148-40b0-98cc-d4af72d34b8a")
+		(path "/3a1dac3c-102c-46e8-a8af-e81f9ea432d5/1bb13b99-1148-40b0-98cc-d4af72d34b8a")
 		(sheetname "/MCUs/")
 		(sheetfile "mcus.kicad_sch")
 		(units
@@ -22484,7 +22484,7 @@
 			)
 		)
 		(property ki_fp_filters "ESP32?WROOM?32*")
-		(path "/bd07adf9-511c-4f78-9c21-91371a1c472e/41e223f2-8e97-4246-8636-f4b47f47060c")
+		(path "/3a1dac3c-102c-46e8-a8af-e81f9ea432d5/41e223f2-8e97-4246-8636-f4b47f47060c")
 		(sheetname "/MCUs/")
 		(sheetfile "mcus.kicad_sch")
 		(units
@@ -23805,9 +23805,9 @@
 			)
 		)
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
-		(path "/4858dc7d-9cb6-46ec-bd45-522c2c933f66")
+		(path "/3973982c-74b5-4998-8253-44f2bfad7e69")
 		(sheetname "/")
-		(sheetfile "edge.kicad_sch")
+		(sheetfile "spark.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -24320,7 +24320,7 @@
 			)
 		)
 		(property ki_fp_filters "C_*")
-		(path "/bd07adf9-511c-4f78-9c21-91371a1c472e/a86c28f6-a1f5-4f03-aca6-b90d8aa63bd2")
+		(path "/3a1dac3c-102c-46e8-a8af-e81f9ea432d5/a86c28f6-a1f5-4f03-aca6-b90d8aa63bd2")
 		(sheetname "/MCUs/")
 		(sheetfile "mcus.kicad_sch")
 		(units
@@ -24635,7 +24635,7 @@
 			)
 		)
 		(property ki_fp_filters "Choke_* *Coil* Inductor_* L_*")
-		(path "/d8f78fc9-ef33-475d-a645-b983ce9bc4c5/4da43f3b-e87e-4652-9e53-450711441f7a")
+		(path "/7168a8f8-04ea-40a2-91f0-13199f1eab65/4da43f3b-e87e-4652-9e53-450711441f7a")
 		(sheetname "/USB/")
 		(sheetfile "usb.kicad_sch")
 		(units
@@ -25133,9 +25133,9 @@
 			)
 		)
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
-		(path "/7c69b1d8-4734-4f70-9f20-1d2aba7aedde")
+		(path "/27f6521b-ffe2-403f-b64f-c380a51bf1a4")
 		(sheetname "/")
-		(sheetfile "edge.kicad_sch")
+		(sheetfile "spark.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -25648,9 +25648,9 @@
 			)
 		)
 		(property ki_fp_filters "R_*")
-		(path "/97ef45aa-6b7a-4da8-9084-a88fc3a675b7")
+		(path "/77b91923-afe8-4436-a7a3-af6ef6d9f284")
 		(sheetname "/")
-		(sheetfile "edge.kicad_sch")
+		(sheetfile "spark.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -25987,9 +25987,9 @@
 				)
 			)
 		)
-		(path "/941334ec-ae76-4ec8-8ee1-2607daa7f67e")
+		(path "/d7039fba-b383-4d5b-b0e9-36e5ddacf646")
 		(sheetname "/")
-		(sheetfile "edge.kicad_sch")
+		(sheetfile "spark.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -26647,7 +26647,7 @@
 			)
 		)
 		(property ki_fp_filters "C_*")
-		(path "/bd07adf9-511c-4f78-9c21-91371a1c472e/8e2268bb-e3fd-4534-b278-ff7de5eec5df")
+		(path "/3a1dac3c-102c-46e8-a8af-e81f9ea432d5/8e2268bb-e3fd-4534-b278-ff7de5eec5df")
 		(sheetname "/MCUs/")
 		(sheetfile "mcus.kicad_sch")
 		(units
@@ -26731,6 +26731,360 @@
 		)
 		(embedded_fonts no)
 		(model "${KICAD10_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0402_1005Metric.step"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
+	)
+	(footprint "Resistor_SMD:R_0402_1005Metric"
+		(layer "F.Cu")
+		(uuid "45948efc-cb3d-4b55-a554-829c9e3b25a7")
+		(at 174.095 121.755 180)
+		(descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
+		(tags "resistor")
+		(property "Reference" "R53"
+			(at 0 -1.17 0)
+			(layer "F.SilkS")
+			(uuid "721564eb-f1cc-400d-92ba-4e452ef798bb")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Value" "300k"
+			(at 0 1.17 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "939642da-33a9-451a-8286-48833de9d0b9")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "8b2c8bfc-626f-4fd0-b222-31c46aecfd2f")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "68afc204-0b92-4c74-b77e-057e689d4143")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "62ca5cb0-b7da-4d61-8380-81eb2facd511")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "KLC_S4.2_DVDD" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d5c82d52-84b0-4291-8cdc-678158ee2aa3")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "KLC_S4.2_VREG_VOUT" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "3f40b50e-332a-4f22-a26f-61dd291c4a08")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Sim.Device" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "fca5b8ab-6d40-4ddf-99dd-626a48ffdac4")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "cde376a2-67cc-4749-a6cb-440679255364")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "ARROW_ELECTRONICS-PURCHASE-URL" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "7e193b98-a011-416f-b70b-fd5a6c62913a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "AVAILABILITY" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "038333db-c7ba-409c-8944-ad55dd828314")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "DIGIKEY-PURCHASE-URL" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c6daa89d-93c6-460b-9f73-afa0fa823880")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MOUSER-PURCHASE-URL" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "3dcc988e-a036-421f-96a1-6ce9bce651fe")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "PRICE" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "bde15532-06db-4e0f-82c0-f8218ed402aa")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "TEXAS_INSTRUMENTS-PURCHASE-URL" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b7c43f6f-bcaf-41b6-b411-34560292dfdd")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "0402WGF3003TCE"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "9e3c8112-7373-4779-9a0a-1eccf8c24ba8")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "OC_FARNELL" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "271133e3-4a1b-4e05-86a1-f9a9dbd6f773")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "OC_NEWARK" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a01a4739-c535-4974-8a31-522a5eb2d37e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "PACKAGE" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "64cb96fb-65d5-4517-b3c9-4055b54aeb38")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "SUPPLIER" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "7a872ccf-9671-4298-b356-8e6018a06e9a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property ki_fp_filters "R_*")
+		(path "/1cf70a63-bc89-4c77-80be-2385eb922ac9/eb8043a2-1095-4a12-b48a-148d4dd64528")
+		(sheetname "/Power/")
+		(sheetfile "power.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
+		(attr smd)
+		(duplicate_pad_numbers_are_jumpers no)
+		(fp_line
+			(start -0.153641 0.38)
+			(end 0.153641 0.38)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "9d395c62-0fd8-4f21-b144-1cded3a96589")
+		)
+		(fp_line
+			(start -0.153641 -0.38)
+			(end 0.153641 -0.38)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "ec941a02-b731-4fd2-ba3c-52bd6ee80277")
+		)
+		(fp_rect
+			(start -0.93 -0.47)
+			(end 0.93 0.47)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(fill no)
+			(layer "F.CrtYd")
+			(uuid "1473f6f3-bc1a-4c0e-92a5-ed8cf884d70c")
+		)
+		(fp_rect
+			(start -0.525 -0.27)
+			(end 0.525 0.27)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(fill no)
+			(layer "F.Fab")
+			(uuid "d32c7f81-ed24-4045-a8fb-2750576a8c74")
+		)
+		(fp_text user "${REFERENCE}"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(uuid "6050d6b0-f6d8-407e-a3fb-b1848517e96b")
+			(effects
+				(font
+					(size 0.26 0.26)
+					(thickness 0.04)
+				)
+			)
+		)
+		(pad "1" smd roundrect
+			(at -0.51 0 180)
+			(size 0.54 0.64)
+			(layers "F.Cu" "F.Mask" "F.Paste")
+			(roundrect_rratio 0.25)
+			(net "Net-(U14-UVLO)")
+			(pintype "passive")
+			(uuid "8012e1a2-b0b5-49a7-999f-8d4f1d91ef7e")
+		)
+		(pad "2" smd roundrect
+			(at 0.51 0 180)
+			(size 0.54 0.64)
+			(layers "F.Cu" "F.Mask" "F.Paste")
+			(roundrect_rratio 0.25)
+			(net "OUTTP_IN_SYS")
+			(pintype "passive")
+			(uuid "8383311d-1afe-41ef-8522-7de9a3a1dc0b")
+		)
+		(embedded_fonts no)
+		(model "${KICAD10_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -26993,7 +27347,7 @@
 			)
 		)
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
-		(path "/aecf4e15-7b03-4a48-80e0-ac4b2ea4cebe/161bce55-b765-4f17-b4a3-503a94efea47")
+		(path "/4bc1336a-0ac7-4452-a01a-704f056757eb/161bce55-b765-4f17-b4a3-503a94efea47")
 		(sheetname "/Analyzer/")
 		(sheetfile "analyzer.kicad_sch")
 		(units
@@ -27456,7 +27810,7 @@
 			)
 		)
 		(property ki_fp_filters "TSOT?23*")
-		(path "/d8f78fc9-ef33-475d-a645-b983ce9bc4c5/d0d6cb4d-ed22-4d19-9e0a-b263543d8aaa")
+		(path "/7168a8f8-04ea-40a2-91f0-13199f1eab65/d0d6cb4d-ed22-4d19-9e0a-b263543d8aaa")
 		(sheetname "/USB/")
 		(sheetfile "usb.kicad_sch")
 		(units
@@ -28027,7 +28381,7 @@
 			)
 		)
 		(property ki_fp_filters "R_*")
-		(path "/a3367222-908f-43fd-8692-1220d89bfe2d/16c4ba15-14ba-45ab-8190-87d4976066a2")
+		(path "/1cf70a63-bc89-4c77-80be-2385eb922ac9/16c4ba15-14ba-45ab-8190-87d4976066a2")
 		(sheetname "/Power/")
 		(sheetfile "power.kicad_sch")
 		(units
@@ -28394,7 +28748,7 @@
 			)
 		)
 		(property ki_fp_filters "C_*")
-		(path "/bd07adf9-511c-4f78-9c21-91371a1c472e/e24ad891-32c9-4252-a696-030a96f8376b")
+		(path "/3a1dac3c-102c-46e8-a8af-e81f9ea432d5/e24ad891-32c9-4252-a696-030a96f8376b")
 		(sheetname "/MCUs/")
 		(sheetfile "mcus.kicad_sch")
 		(units
@@ -28761,7 +29115,7 @@
 			)
 		)
 		(property ki_fp_filters "C_*")
-		(path "/a3367222-908f-43fd-8692-1220d89bfe2d/1b55e301-5450-4f6c-9cea-f6a9014e10c4")
+		(path "/1cf70a63-bc89-4c77-80be-2385eb922ac9/1b55e301-5450-4f6c-9cea-f6a9014e10c4")
 		(sheetname "/Power/")
 		(sheetfile "power.kicad_sch")
 		(units
@@ -29129,7 +29483,7 @@
 			)
 		)
 		(property ki_fp_filters "C_*")
-		(path "/d8f78fc9-ef33-475d-a645-b983ce9bc4c5/805bd843-8873-4c44-b00c-1f622749e14c")
+		(path "/7168a8f8-04ea-40a2-91f0-13199f1eab65/805bd843-8873-4c44-b00c-1f622749e14c")
 		(sheetname "/USB/")
 		(sheetfile "usb.kicad_sch")
 		(units
@@ -29496,7 +29850,7 @@
 			)
 		)
 		(property ki_fp_filters "R_*")
-		(path "/a3367222-908f-43fd-8692-1220d89bfe2d/537e7d84-e23b-4be4-a96a-60a6fcb720f9")
+		(path "/1cf70a63-bc89-4c77-80be-2385eb922ac9/537e7d84-e23b-4be4-a96a-60a6fcb720f9")
 		(sheetname "/Power/")
 		(sheetfile "power.kicad_sch")
 		(units
@@ -29863,7 +30217,7 @@
 			)
 		)
 		(property ki_fp_filters "R_*")
-		(path "/d8f78fc9-ef33-475d-a645-b983ce9bc4c5/9b24c9c0-2dc1-4e37-be9c-1ca814c8a162")
+		(path "/7168a8f8-04ea-40a2-91f0-13199f1eab65/9b24c9c0-2dc1-4e37-be9c-1ca814c8a162")
 		(sheetname "/USB/")
 		(sheetfile "usb.kicad_sch")
 		(units
@@ -30230,7 +30584,7 @@
 			)
 		)
 		(property ki_fp_filters "R_*")
-		(path "/a3367222-908f-43fd-8692-1220d89bfe2d/c9225c9c-e4b7-45c2-af3c-086ecb94b3f7")
+		(path "/1cf70a63-bc89-4c77-80be-2385eb922ac9/c9225c9c-e4b7-45c2-af3c-086ecb94b3f7")
 		(sheetname "/Power/")
 		(sheetfile "power.kicad_sch")
 		(units
@@ -30577,9 +30931,9 @@
 			)
 		)
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
-		(path "/0b5fb269-db3b-45da-aee2-bb73a8d24067")
+		(path "/f680b2a0-07fd-4324-85c4-b62d39a519a3")
 		(sheetname "/")
-		(sheetfile "edge.kicad_sch")
+		(sheetfile "spark.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -31086,7 +31440,7 @@
 			)
 		)
 		(property ki_fp_filters "R_*")
-		(path "/aecf4e15-7b03-4a48-80e0-ac4b2ea4cebe/d563c115-3949-47e4-a4fd-d1d97e75645c")
+		(path "/4bc1336a-0ac7-4452-a01a-704f056757eb/d563c115-3949-47e4-a4fd-d1d97e75645c")
 		(sheetname "/Analyzer/")
 		(sheetfile "analyzer.kicad_sch")
 		(units
@@ -31480,9 +31834,9 @@
 			)
 		)
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
-		(path "/4d5f7f32-b737-4341-a636-59c7e95f7641")
+		(path "/c6a36bd7-c446-473e-be0f-c4aefee752f7")
 		(sheetname "/")
-		(sheetfile "edge.kicad_sch")
+		(sheetfile "spark.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -31982,7 +32336,7 @@
 			)
 		)
 		(property ki_fp_filters "R_*")
-		(path "/a3367222-908f-43fd-8692-1220d89bfe2d/ea121dac-1b58-41b6-ae86-8dc11e08fa21")
+		(path "/1cf70a63-bc89-4c77-80be-2385eb922ac9/ea121dac-1b58-41b6-ae86-8dc11e08fa21")
 		(sheetname "/Power/")
 		(sheetfile "power.kicad_sch")
 		(units
@@ -32349,7 +32703,7 @@
 			)
 		)
 		(property ki_fp_filters "C_*")
-		(path "/bd07adf9-511c-4f78-9c21-91371a1c472e/a9cf838a-f776-48a4-a03d-ebbcc7a6ca20")
+		(path "/3a1dac3c-102c-46e8-a8af-e81f9ea432d5/a9cf838a-f776-48a4-a03d-ebbcc7a6ca20")
 		(sheetname "/MCUs/")
 		(sheetfile "mcus.kicad_sch")
 		(units
@@ -32716,7 +33070,7 @@
 			)
 		)
 		(property ki_fp_filters "C_*")
-		(path "/a3367222-908f-43fd-8692-1220d89bfe2d/37877d7b-0f07-4048-a2d9-2674761d1ade")
+		(path "/1cf70a63-bc89-4c77-80be-2385eb922ac9/37877d7b-0f07-4048-a2d9-2674761d1ade")
 		(sheetname "/Power/")
 		(sheetfile "power.kicad_sch")
 		(units
@@ -33083,9 +33437,9 @@
 			)
 		)
 		(property ki_fp_filters "C_*")
-		(path "/3a6b808f-48ee-475d-bf9b-5f1630134fd5")
+		(path "/29c09d7f-eec9-48ab-8feb-564420942207")
 		(sheetname "/")
-		(sheetfile "edge.kicad_sch")
+		(sheetfile "spark.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -33450,7 +33804,7 @@
 			)
 		)
 		(property ki_fp_filters "C_*")
-		(path "/d8f78fc9-ef33-475d-a645-b983ce9bc4c5/a5ebaca7-d10d-4d74-aa30-0b5fb35c249f")
+		(path "/7168a8f8-04ea-40a2-91f0-13199f1eab65/a5ebaca7-d10d-4d74-aa30-0b5fb35c249f")
 		(sheetname "/USB/")
 		(sheetfile "usb.kicad_sch")
 		(units
@@ -33817,7 +34171,7 @@
 			)
 		)
 		(property ki_fp_filters "R_*")
-		(path "/a3367222-908f-43fd-8692-1220d89bfe2d/af4caa95-99c0-44cd-92d6-e6c55e0b4021")
+		(path "/1cf70a63-bc89-4c77-80be-2385eb922ac9/af4caa95-99c0-44cd-92d6-e6c55e0b4021")
 		(sheetname "/Power/")
 		(sheetfile "power.kicad_sch")
 		(units
@@ -34184,7 +34538,7 @@
 			)
 		)
 		(property ki_fp_filters "R_*")
-		(path "/aecf4e15-7b03-4a48-80e0-ac4b2ea4cebe/7a36e611-b189-4f80-8ebf-e9e1714ccb65")
+		(path "/4bc1336a-0ac7-4452-a01a-704f056757eb/7a36e611-b189-4f80-8ebf-e9e1714ccb65")
 		(sheetname "/Analyzer/")
 		(sheetfile "analyzer.kicad_sch")
 		(units
@@ -34379,7 +34733,7 @@
 				)
 			)
 		)
-		(path "/d8f78fc9-ef33-475d-a645-b983ce9bc4c5/74c685ed-3334-4e97-a787-6763d6c520c7")
+		(path "/7168a8f8-04ea-40a2-91f0-13199f1eab65/74c685ed-3334-4e97-a787-6763d6c520c7")
 		(sheetname "/USB/")
 		(sheetfile "usb.kicad_sch")
 		(units
@@ -34833,7 +35187,7 @@
 			)
 		)
 		(property ki_fp_filters "C_*")
-		(path "/aecf4e15-7b03-4a48-80e0-ac4b2ea4cebe/73120997-b5b9-4227-841d-945f6c9e5997")
+		(path "/4bc1336a-0ac7-4452-a01a-704f056757eb/73120997-b5b9-4227-841d-945f6c9e5997")
 		(sheetname "/Analyzer/")
 		(sheetfile "analyzer.kicad_sch")
 		(units
@@ -35200,7 +35554,7 @@
 			)
 		)
 		(property ki_fp_filters "C_*")
-		(path "/bd07adf9-511c-4f78-9c21-91371a1c472e/cd2c9bbe-ecde-4758-b0c6-a65d158d595c")
+		(path "/3a1dac3c-102c-46e8-a8af-e81f9ea432d5/cd2c9bbe-ecde-4758-b0c6-a65d158d595c")
 		(sheetname "/MCUs/")
 		(sheetfile "mcus.kicad_sch")
 		(units
@@ -35567,7 +35921,7 @@
 			)
 		)
 		(property ki_fp_filters "C_*")
-		(path "/a3367222-908f-43fd-8692-1220d89bfe2d/67962b4e-b780-40c3-a64c-15dbb18d114e")
+		(path "/1cf70a63-bc89-4c77-80be-2385eb922ac9/67962b4e-b780-40c3-a64c-15dbb18d114e")
 		(sheetname "/Power/")
 		(sheetfile "power.kicad_sch")
 		(units
@@ -35934,9 +36288,9 @@
 			)
 		)
 		(property ki_fp_filters "R_*")
-		(path "/bebbeef4-3456-48c1-bfdf-a2aec1097910")
+		(path "/754e3287-da50-4a28-b7b9-732a9de0ecb3")
 		(sheetname "/")
-		(sheetfile "edge.kicad_sch")
+		(sheetfile "spark.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -36301,7 +36655,7 @@
 			)
 		)
 		(property ki_fp_filters "R_*")
-		(path "/a3367222-908f-43fd-8692-1220d89bfe2d/6dddf596-6425-4183-b314-0b8a1da031d5")
+		(path "/1cf70a63-bc89-4c77-80be-2385eb922ac9/6dddf596-6425-4183-b314-0b8a1da031d5")
 		(sheetname "/Power/")
 		(sheetfile "power.kicad_sch")
 		(units
@@ -36668,7 +37022,7 @@
 			)
 		)
 		(property ki_fp_filters "C_*")
-		(path "/a3367222-908f-43fd-8692-1220d89bfe2d/a7b8c4b8-ea15-462b-9997-bd28e69b8d0f")
+		(path "/1cf70a63-bc89-4c77-80be-2385eb922ac9/a7b8c4b8-ea15-462b-9997-bd28e69b8d0f")
 		(sheetname "/Power/")
 		(sheetfile "power.kicad_sch")
 		(units
@@ -37022,7 +37376,7 @@
 			)
 		)
 		(property ki_fp_filters "R_*")
-		(path "/d8f78fc9-ef33-475d-a645-b983ce9bc4c5/7aecfe63-2281-4ccb-bbc5-a9241bcc0c97")
+		(path "/7168a8f8-04ea-40a2-91f0-13199f1eab65/7aecfe63-2281-4ccb-bbc5-a9241bcc0c97")
 		(sheetname "/USB/")
 		(sheetfile "usb.kicad_sch")
 		(units
@@ -37389,7 +37743,7 @@
 			)
 		)
 		(property ki_fp_filters "R_*")
-		(path "/d8f78fc9-ef33-475d-a645-b983ce9bc4c5/890629b9-b1d4-413d-9917-197de2c3506e")
+		(path "/7168a8f8-04ea-40a2-91f0-13199f1eab65/890629b9-b1d4-413d-9917-197de2c3506e")
 		(sheetname "/USB/")
 		(sheetfile "usb.kicad_sch")
 		(units
@@ -37548,9 +37902,9 @@
 			)
 		)
 		(property ki_fp_filters "Connector*:*_1x??_*")
-		(path "/5ae52278-8be5-4376-adbd-ccf83914f7f8")
+		(path "/20e28d18-423b-4c34-b7f2-03650dc585a4")
 		(sheetname "/")
-		(sheetfile "edge.kicad_sch")
+		(sheetfile "spark.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -37999,7 +38353,7 @@
 			)
 		)
 		(property ki_fp_filters "C_*")
-		(path "/bd07adf9-511c-4f78-9c21-91371a1c472e/1516103e-7978-4cb0-9097-44589bff7f76")
+		(path "/3a1dac3c-102c-46e8-a8af-e81f9ea432d5/1516103e-7978-4cb0-9097-44589bff7f76")
 		(sheetname "/MCUs/")
 		(sheetfile "mcus.kicad_sch")
 		(units
@@ -38366,7 +38720,7 @@
 			)
 		)
 		(property ki_fp_filters "C_*")
-		(path "/bd07adf9-511c-4f78-9c21-91371a1c472e/0de39da4-ff59-47cb-9677-604ef7e71959")
+		(path "/3a1dac3c-102c-46e8-a8af-e81f9ea432d5/0de39da4-ff59-47cb-9677-604ef7e71959")
 		(sheetname "/MCUs/")
 		(sheetfile "mcus.kicad_sch")
 		(units
@@ -38734,7 +39088,7 @@
 			)
 		)
 		(property ki_fp_filters "C_*")
-		(path "/bd07adf9-511c-4f78-9c21-91371a1c472e/cf6bd85d-c96f-48c6-8339-e040b7dd2673")
+		(path "/3a1dac3c-102c-46e8-a8af-e81f9ea432d5/cf6bd85d-c96f-48c6-8339-e040b7dd2673")
 		(sheetname "/MCUs/")
 		(sheetfile "mcus.kicad_sch")
 		(units
@@ -38971,7 +39325,7 @@
 			)
 		)
 		(property ki_fp_filters "SOT?323*")
-		(path "/bd07adf9-511c-4f78-9c21-91371a1c472e/ed1b7632-d9e6-47d8-892b-0d2e17593d60")
+		(path "/3a1dac3c-102c-46e8-a8af-e81f9ea432d5/ed1b7632-d9e6-47d8-892b-0d2e17593d60")
 		(sheetname "/MCUs/")
 		(sheetfile "mcus.kicad_sch")
 		(units
@@ -39507,9 +39861,9 @@
 			)
 		)
 		(property ki_fp_filters "Connector*:*_1x??_*")
-		(path "/bc0b1974-e649-47e4-978c-589c64de9937")
+		(path "/959a3578-20f1-451d-b3b0-8767c4fff1d8")
 		(sheetname "/")
-		(sheetfile "edge.kicad_sch")
+		(sheetfile "spark.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -39994,7 +40348,7 @@
 			)
 		)
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
-		(path "/aecf4e15-7b03-4a48-80e0-ac4b2ea4cebe/f248779b-5569-4baa-8a5e-3f2fdb75e02f")
+		(path "/4bc1336a-0ac7-4452-a01a-704f056757eb/f248779b-5569-4baa-8a5e-3f2fdb75e02f")
 		(sheetname "/Analyzer/")
 		(sheetfile "analyzer.kicad_sch")
 		(units
@@ -40509,7 +40863,7 @@
 			)
 		)
 		(property ki_fp_filters "R_*")
-		(path "/aecf4e15-7b03-4a48-80e0-ac4b2ea4cebe/02eed48d-7964-4a32-9b93-d5a190272b68")
+		(path "/4bc1336a-0ac7-4452-a01a-704f056757eb/02eed48d-7964-4a32-9b93-d5a190272b68")
 		(sheetname "/Analyzer/")
 		(sheetfile "analyzer.kicad_sch")
 		(units
@@ -40848,7 +41202,7 @@
 				)
 			)
 		)
-		(path "/aecf4e15-7b03-4a48-80e0-ac4b2ea4cebe/b87d6664-d070-4fcc-b52e-6b2ba7239e1a")
+		(path "/4bc1336a-0ac7-4452-a01a-704f056757eb/b87d6664-d070-4fcc-b52e-6b2ba7239e1a")
 		(sheetname "/Analyzer/")
 		(sheetfile "analyzer.kicad_sch")
 		(units
@@ -41522,7 +41876,7 @@
 			)
 		)
 		(property ki_fp_filters "C_*")
-		(path "/bd07adf9-511c-4f78-9c21-91371a1c472e/915785bd-ff1f-4b55-be99-22f00f6ce1b1")
+		(path "/3a1dac3c-102c-46e8-a8af-e81f9ea432d5/915785bd-ff1f-4b55-be99-22f00f6ce1b1")
 		(sheetname "/MCUs/")
 		(sheetfile "mcus.kicad_sch")
 		(units
@@ -41889,9 +42243,9 @@
 			)
 		)
 		(property ki_fp_filters "C_*")
-		(path "/c3b0f92f-ed14-40ff-85c9-22269e9ae706")
+		(path "/942d96ed-c1a4-4e4c-b1fb-88dde68e1cd7")
 		(sheetname "/")
-		(sheetfile "edge.kicad_sch")
+		(sheetfile "spark.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -42384,7 +42738,7 @@
 				)
 			)
 		)
-		(path "/bd07adf9-511c-4f78-9c21-91371a1c472e/678522f7-0fa5-4c64-b370-caffef69cc28")
+		(path "/3a1dac3c-102c-46e8-a8af-e81f9ea432d5/678522f7-0fa5-4c64-b370-caffef69cc28")
 		(sheetname "/MCUs/")
 		(sheetfile "mcus.kicad_sch")
 		(units
@@ -42829,7 +43183,7 @@
 			)
 		)
 		(property ki_fp_filters "C_*")
-		(path "/a3367222-908f-43fd-8692-1220d89bfe2d/bfde3484-3ac6-4ddd-a9dd-4fa7f984fe13")
+		(path "/1cf70a63-bc89-4c77-80be-2385eb922ac9/bfde3484-3ac6-4ddd-a9dd-4fa7f984fe13")
 		(sheetname "/Power/")
 		(sheetfile "power.kicad_sch")
 		(units
@@ -43066,7 +43420,7 @@
 			)
 		)
 		(property ki_fp_filters "SOT?323*")
-		(path "/bd07adf9-511c-4f78-9c21-91371a1c472e/995ca0ae-beff-49a0-95b0-07978b7ce695")
+		(path "/3a1dac3c-102c-46e8-a8af-e81f9ea432d5/995ca0ae-beff-49a0-95b0-07978b7ce695")
 		(sheetname "/MCUs/")
 		(sheetfile "mcus.kicad_sch")
 		(units
@@ -43637,7 +43991,7 @@
 			)
 		)
 		(property ki_fp_filters "C_*")
-		(path "/bd07adf9-511c-4f78-9c21-91371a1c472e/0462032a-2ee7-49e7-af9a-f130a454604e")
+		(path "/3a1dac3c-102c-46e8-a8af-e81f9ea432d5/0462032a-2ee7-49e7-af9a-f130a454604e")
 		(sheetname "/MCUs/")
 		(sheetfile "mcus.kicad_sch")
 		(units
@@ -44004,7 +44358,7 @@
 			)
 		)
 		(property ki_fp_filters "R_*")
-		(path "/d8f78fc9-ef33-475d-a645-b983ce9bc4c5/2cad12d2-0bca-446e-a043-f54f9c99f65e")
+		(path "/7168a8f8-04ea-40a2-91f0-13199f1eab65/2cad12d2-0bca-446e-a043-f54f9c99f65e")
 		(sheetname "/USB/")
 		(sheetfile "usb.kicad_sch")
 		(units
@@ -44319,7 +44673,7 @@
 			)
 		)
 		(property ki_fp_filters "SOT?23*")
-		(path "/aecf4e15-7b03-4a48-80e0-ac4b2ea4cebe/26274687-92ff-498d-b68c-1ecfd21ba7ec")
+		(path "/4bc1336a-0ac7-4452-a01a-704f056757eb/26274687-92ff-498d-b68c-1ecfd21ba7ec")
 		(sheetname "/Analyzer/")
 		(sheetfile "analyzer.kicad_sch")
 		(units
@@ -44910,9 +45264,9 @@
 			)
 		)
 		(property ki_fp_filters "R_*")
-		(path "/06c165ab-a08c-4eec-b1c9-bdb6ab0d94f0")
+		(path "/3185e03f-939a-4802-8aee-2109e5ad1fee")
 		(sheetname "/")
-		(sheetfile "edge.kicad_sch")
+		(sheetfile "spark.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -45257,7 +45611,7 @@
 			)
 		)
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
-		(path "/aecf4e15-7b03-4a48-80e0-ac4b2ea4cebe/04006655-e3de-4788-a4da-847c12554e92")
+		(path "/4bc1336a-0ac7-4452-a01a-704f056757eb/04006655-e3de-4788-a4da-847c12554e92")
 		(sheetname "/Analyzer/")
 		(sheetfile "analyzer.kicad_sch")
 		(units
@@ -45772,7 +46126,7 @@
 			)
 		)
 		(property ki_fp_filters "C_*")
-		(path "/a3367222-908f-43fd-8692-1220d89bfe2d/be537486-323f-44e9-ab97-c47508b0b09d")
+		(path "/1cf70a63-bc89-4c77-80be-2385eb922ac9/be537486-323f-44e9-ab97-c47508b0b09d")
 		(sheetname "/Power/")
 		(sheetfile "power.kicad_sch")
 		(units
@@ -46099,7 +46453,7 @@
 			)
 		)
 		(property ki_fp_filters "Choke_* *Coil* Inductor_* L_*")
-		(path "/a3367222-908f-43fd-8692-1220d89bfe2d/6aaa796e-9509-49d6-9b95-00d403b8e0db")
+		(path "/1cf70a63-bc89-4c77-80be-2385eb922ac9/6aaa796e-9509-49d6-9b95-00d403b8e0db")
 		(sheetname "/Power/")
 		(sheetfile "power.kicad_sch")
 		(units
@@ -46492,7 +46846,7 @@
 			)
 		)
 		(property ki_fp_filters "*SOIC*5.3x5.3mm*P1.27mm*")
-		(path "/bd07adf9-511c-4f78-9c21-91371a1c472e/3934a40a-1631-42df-bcf6-5c0c001a80fc")
+		(path "/3a1dac3c-102c-46e8-a8af-e81f9ea432d5/3934a40a-1631-42df-bcf6-5c0c001a80fc")
 		(sheetname "/MCUs/")
 		(sheetfile "mcus.kicad_sch")
 		(units
@@ -47083,7 +47437,7 @@
 			)
 		)
 		(property ki_fp_filters "C_*")
-		(path "/bd07adf9-511c-4f78-9c21-91371a1c472e/a531054c-aa3d-40be-88da-f9a5a2306e0a")
+		(path "/3a1dac3c-102c-46e8-a8af-e81f9ea432d5/a531054c-aa3d-40be-88da-f9a5a2306e0a")
 		(sheetname "/MCUs/")
 		(sheetfile "mcus.kicad_sch")
 		(units
@@ -47430,7 +47784,7 @@
 			)
 		)
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
-		(path "/aecf4e15-7b03-4a48-80e0-ac4b2ea4cebe/b0e5c685-836f-4940-aec9-f087ee6fe3f0")
+		(path "/4bc1336a-0ac7-4452-a01a-704f056757eb/b0e5c685-836f-4940-aec9-f087ee6fe3f0")
 		(sheetname "/Analyzer/")
 		(sheetfile "analyzer.kicad_sch")
 		(units
@@ -47945,7 +48299,7 @@
 			)
 		)
 		(property ki_fp_filters "R_*")
-		(path "/aecf4e15-7b03-4a48-80e0-ac4b2ea4cebe/6904562c-2e63-4fa0-8edb-3c024099b5c0")
+		(path "/4bc1336a-0ac7-4452-a01a-704f056757eb/6904562c-2e63-4fa0-8edb-3c024099b5c0")
 		(sheetname "/Analyzer/")
 		(sheetfile "analyzer.kicad_sch")
 		(units
@@ -48260,7 +48614,7 @@
 			)
 		)
 		(property ki_fp_filters "SOT?23*")
-		(path "/a3367222-908f-43fd-8692-1220d89bfe2d/7adee673-9bea-4cd0-9f92-7225ab9b90de")
+		(path "/1cf70a63-bc89-4c77-80be-2385eb922ac9/7adee673-9bea-4cd0-9f92-7225ab9b90de")
 		(sheetname "/Power/")
 		(sheetfile "power.kicad_sch")
 		(units
@@ -48851,7 +49205,7 @@
 			)
 		)
 		(property ki_fp_filters "C_*")
-		(path "/a3367222-908f-43fd-8692-1220d89bfe2d/717df92a-6308-498b-9901-6a5f4d3570b5")
+		(path "/1cf70a63-bc89-4c77-80be-2385eb922ac9/717df92a-6308-498b-9901-6a5f4d3570b5")
 		(sheetname "/Power/")
 		(sheetfile "power.kicad_sch")
 		(units
@@ -49218,7 +49572,7 @@
 			)
 		)
 		(property ki_fp_filters "C_*")
-		(path "/bd07adf9-511c-4f78-9c21-91371a1c472e/d9d1022b-bad2-4414-8660-461c63855cd1")
+		(path "/3a1dac3c-102c-46e8-a8af-e81f9ea432d5/d9d1022b-bad2-4414-8660-461c63855cd1")
 		(sheetname "/MCUs/")
 		(sheetfile "mcus.kicad_sch")
 		(units
@@ -49585,7 +49939,7 @@
 			)
 		)
 		(property ki_fp_filters "C_*")
-		(path "/d8f78fc9-ef33-475d-a645-b983ce9bc4c5/bebe4594-77d0-4870-8fa3-f8a08bd64787")
+		(path "/7168a8f8-04ea-40a2-91f0-13199f1eab65/bebe4594-77d0-4870-8fa3-f8a08bd64787")
 		(sheetname "/USB/")
 		(sheetfile "usb.kicad_sch")
 		(units
@@ -49952,7 +50306,7 @@
 			)
 		)
 		(property ki_fp_filters "C_*")
-		(path "/d8f78fc9-ef33-475d-a645-b983ce9bc4c5/aafd3a38-dbf5-47c3-a161-5726a12aa006")
+		(path "/7168a8f8-04ea-40a2-91f0-13199f1eab65/aafd3a38-dbf5-47c3-a161-5726a12aa006")
 		(sheetname "/USB/")
 		(sheetfile "usb.kicad_sch")
 		(units
@@ -50319,7 +50673,7 @@
 			)
 		)
 		(property ki_fp_filters "R_*")
-		(path "/a3367222-908f-43fd-8692-1220d89bfe2d/a4645ec1-58fb-4425-9de2-eb810a919760")
+		(path "/1cf70a63-bc89-4c77-80be-2385eb922ac9/a4645ec1-58fb-4425-9de2-eb810a919760")
 		(sheetname "/Power/")
 		(sheetfile "power.kicad_sch")
 		(units
@@ -50686,7 +51040,7 @@
 			)
 		)
 		(property ki_fp_filters "C_*")
-		(path "/bd07adf9-511c-4f78-9c21-91371a1c472e/04284a8a-56e2-4c62-8c19-696e0d798e6e")
+		(path "/3a1dac3c-102c-46e8-a8af-e81f9ea432d5/04284a8a-56e2-4c62-8c19-696e0d798e6e")
 		(sheetname "/MCUs/")
 		(sheetfile "mcus.kicad_sch")
 		(units
@@ -50923,7 +51277,7 @@
 			)
 		)
 		(property ki_fp_filters "SOT?323*")
-		(path "/bd07adf9-511c-4f78-9c21-91371a1c472e/46570d38-df78-4f07-b8b7-799459f95a07")
+		(path "/3a1dac3c-102c-46e8-a8af-e81f9ea432d5/46570d38-df78-4f07-b8b7-799459f95a07")
 		(sheetname "/MCUs/")
 		(sheetfile "mcus.kicad_sch")
 		(units
@@ -51495,7 +51849,7 @@
 			)
 		)
 		(property ki_fp_filters "C_*")
-		(path "/bd07adf9-511c-4f78-9c21-91371a1c472e/770e66d5-4575-40a8-acd2-bb91f5f930fe")
+		(path "/3a1dac3c-102c-46e8-a8af-e81f9ea432d5/770e66d5-4575-40a8-acd2-bb91f5f930fe")
 		(sheetname "/MCUs/")
 		(sheetfile "mcus.kicad_sch")
 		(units
@@ -51900,7 +52254,7 @@
 			)
 		)
 		(property ki_fp_filters "R_*")
-		(path "/bd07adf9-511c-4f78-9c21-91371a1c472e/5cc78013-b3cb-49b4-a28c-c0182119d027")
+		(path "/3a1dac3c-102c-46e8-a8af-e81f9ea432d5/5cc78013-b3cb-49b4-a28c-c0182119d027")
 		(sheetname "/MCUs/")
 		(sheetfile "mcus.kicad_sch")
 		(units
@@ -52083,7 +52437,7 @@
 			)
 		)
 		(property ki_fp_filters "*SOIC*3.9x4.9mm*P1.27mm*")
-		(path "/bd07adf9-511c-4f78-9c21-91371a1c472e/d8069fa7-e793-43d7-b389-d34af230f566")
+		(path "/3a1dac3c-102c-46e8-a8af-e81f9ea432d5/d8069fa7-e793-43d7-b389-d34af230f566")
 		(sheetname "/MCUs/")
 		(sheetfile "mcus.kicad_sch")
 		(units
@@ -52596,7 +52950,7 @@
 			)
 		)
 		(property ki_fp_filters "C_*")
-		(path "/d8f78fc9-ef33-475d-a645-b983ce9bc4c5/89ef3df7-396e-4d8b-84bb-8c60e6843767")
+		(path "/7168a8f8-04ea-40a2-91f0-13199f1eab65/89ef3df7-396e-4d8b-84bb-8c60e6843767")
 		(sheetname "/USB/")
 		(sheetfile "usb.kicad_sch")
 		(units
@@ -52963,7 +53317,7 @@
 			)
 		)
 		(property ki_fp_filters "R_*")
-		(path "/aecf4e15-7b03-4a48-80e0-ac4b2ea4cebe/fa0489c3-eb72-400d-a53a-fd9272a8d95e")
+		(path "/4bc1336a-0ac7-4452-a01a-704f056757eb/fa0489c3-eb72-400d-a53a-fd9272a8d95e")
 		(sheetname "/Analyzer/")
 		(sheetfile "analyzer.kicad_sch")
 		(units
@@ -53330,7 +53684,7 @@
 			)
 		)
 		(property ki_fp_filters "R_*")
-		(path "/d8f78fc9-ef33-475d-a645-b983ce9bc4c5/9a9bfef1-370e-4a04-b8d8-93948f00a1b4")
+		(path "/7168a8f8-04ea-40a2-91f0-13199f1eab65/9a9bfef1-370e-4a04-b8d8-93948f00a1b4")
 		(sheetname "/USB/")
 		(sheetfile "usb.kicad_sch")
 		(units
@@ -53617,7 +53971,20 @@
 				)
 			)
 		)
-		(path "/bd07adf9-511c-4f78-9c21-91371a1c472e/a95efa6e-ef0a-48b7-8657-b24551c376fd")
+		(property "MPN" "TS-1088-AR02016"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "fa6b1bf2-63f8-4c74-b623-bcc0e2103b9c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(path "/3a1dac3c-102c-46e8-a8af-e81f9ea432d5/a95efa6e-ef0a-48b7-8657-b24551c376fd")
 		(sheetname "/MCUs/")
 		(sheetfile "mcus.kicad_sch")
 		(units
@@ -53626,7 +53993,7 @@
 				(pins "1" "2")
 			)
 		)
-		(attr smd exclude_from_bom)
+		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -2 1.45)
@@ -54062,7 +54429,7 @@
 			)
 		)
 		(property ki_fp_filters "R_*")
-		(path "/bd07adf9-511c-4f78-9c21-91371a1c472e/7ba6aa12-f5ed-4a71-ba25-5162998c9be6")
+		(path "/3a1dac3c-102c-46e8-a8af-e81f9ea432d5/7ba6aa12-f5ed-4a71-ba25-5162998c9be6")
 		(sheetname "/MCUs/")
 		(sheetfile "mcus.kicad_sch")
 		(units
@@ -54409,7 +54776,7 @@
 			)
 		)
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
-		(path "/aecf4e15-7b03-4a48-80e0-ac4b2ea4cebe/d4e08a8a-c843-4299-9ed2-2d389cd10a09")
+		(path "/4bc1336a-0ac7-4452-a01a-704f056757eb/d4e08a8a-c843-4299-9ed2-2d389cd10a09")
 		(sheetname "/Analyzer/")
 		(sheetfile "analyzer.kicad_sch")
 		(units
@@ -54794,7 +55161,7 @@
 			)
 		)
 		(property ki_fp_filters "SOT?323*")
-		(path "/bd07adf9-511c-4f78-9c21-91371a1c472e/10ece660-ac47-4b15-b133-ef1c908b5631")
+		(path "/3a1dac3c-102c-46e8-a8af-e81f9ea432d5/10ece660-ac47-4b15-b133-ef1c908b5631")
 		(sheetname "/MCUs/")
 		(sheetfile "mcus.kicad_sch")
 		(units
@@ -55365,7 +55732,7 @@
 			)
 		)
 		(property ki_fp_filters "C_*")
-		(path "/d8f78fc9-ef33-475d-a645-b983ce9bc4c5/f6401948-f18d-4284-9d6b-f991a24ddd41")
+		(path "/7168a8f8-04ea-40a2-91f0-13199f1eab65/f6401948-f18d-4284-9d6b-f991a24ddd41")
 		(sheetname "/USB/")
 		(sheetfile "usb.kicad_sch")
 		(units
@@ -55732,7 +56099,7 @@
 			)
 		)
 		(property ki_fp_filters "C_*")
-		(path "/bd07adf9-511c-4f78-9c21-91371a1c472e/b205914f-b303-44f4-bf61-cb61a05ddd43")
+		(path "/3a1dac3c-102c-46e8-a8af-e81f9ea432d5/b205914f-b303-44f4-bf61-cb61a05ddd43")
 		(sheetname "/MCUs/")
 		(sheetfile "mcus.kicad_sch")
 		(units
@@ -56099,7 +56466,7 @@
 			)
 		)
 		(property ki_fp_filters "R_*")
-		(path "/aecf4e15-7b03-4a48-80e0-ac4b2ea4cebe/b8520a61-997e-432d-b1a4-f31ed11c4cae")
+		(path "/4bc1336a-0ac7-4452-a01a-704f056757eb/b8520a61-997e-432d-b1a4-f31ed11c4cae")
 		(sheetname "/Analyzer/")
 		(sheetfile "analyzer.kicad_sch")
 		(units
@@ -56467,7 +56834,7 @@
 			)
 		)
 		(property ki_fp_filters "R_*")
-		(path "/d8f78fc9-ef33-475d-a645-b983ce9bc4c5/1b81ca0b-c25d-4d73-9b0a-0fc54e498914")
+		(path "/7168a8f8-04ea-40a2-91f0-13199f1eab65/1b81ca0b-c25d-4d73-9b0a-0fc54e498914")
 		(sheetname "/USB/")
 		(sheetfile "usb.kicad_sch")
 		(units
@@ -56834,7 +57201,7 @@
 			)
 		)
 		(property ki_fp_filters "C_*")
-		(path "/a3367222-908f-43fd-8692-1220d89bfe2d/660acfb5-b991-4b49-8644-41fe19530f10")
+		(path "/1cf70a63-bc89-4c77-80be-2385eb922ac9/660acfb5-b991-4b49-8644-41fe19530f10")
 		(sheetname "/Power/")
 		(sheetfile "power.kicad_sch")
 		(units
@@ -57201,7 +57568,7 @@
 			)
 		)
 		(property ki_fp_filters "C_*")
-		(path "/bd07adf9-511c-4f78-9c21-91371a1c472e/3034c479-c510-43fd-bea2-fb27ee808952")
+		(path "/3a1dac3c-102c-46e8-a8af-e81f9ea432d5/3034c479-c510-43fd-bea2-fb27ee808952")
 		(sheetname "/MCUs/")
 		(sheetfile "mcus.kicad_sch")
 		(units
@@ -57568,7 +57935,7 @@
 			)
 		)
 		(property ki_fp_filters "R_*")
-		(path "/bd07adf9-511c-4f78-9c21-91371a1c472e/181ed783-0dca-493f-a02f-09d94e290a85")
+		(path "/3a1dac3c-102c-46e8-a8af-e81f9ea432d5/181ed783-0dca-493f-a02f-09d94e290a85")
 		(sheetname "/MCUs/")
 		(sheetfile "mcus.kicad_sch")
 		(units
@@ -57935,7 +58302,7 @@
 			)
 		)
 		(property ki_fp_filters "C_*")
-		(path "/bd07adf9-511c-4f78-9c21-91371a1c472e/b924f47f-aede-414f-9dc0-29f1450158a9")
+		(path "/3a1dac3c-102c-46e8-a8af-e81f9ea432d5/b924f47f-aede-414f-9dc0-29f1450158a9")
 		(sheetname "/MCUs/")
 		(sheetfile "mcus.kicad_sch")
 		(units
@@ -58302,7 +58669,7 @@
 			)
 		)
 		(property ki_fp_filters "R_*")
-		(path "/bd07adf9-511c-4f78-9c21-91371a1c472e/976c782c-0e24-4e17-9d8e-7f824d9a3e24")
+		(path "/3a1dac3c-102c-46e8-a8af-e81f9ea432d5/976c782c-0e24-4e17-9d8e-7f824d9a3e24")
 		(sheetname "/MCUs/")
 		(sheetfile "mcus.kicad_sch")
 		(units
@@ -58669,7 +59036,7 @@
 			)
 		)
 		(property ki_fp_filters "C_*")
-		(path "/a3367222-908f-43fd-8692-1220d89bfe2d/3544bb87-69e0-4aef-ba12-0bb2d4779377")
+		(path "/1cf70a63-bc89-4c77-80be-2385eb922ac9/3544bb87-69e0-4aef-ba12-0bb2d4779377")
 		(sheetname "/Power/")
 		(sheetfile "power.kicad_sch")
 		(units
@@ -59037,7 +59404,7 @@
 			)
 		)
 		(property ki_fp_filters "C_*")
-		(path "/bd07adf9-511c-4f78-9c21-91371a1c472e/b9e2d8ae-d6a1-4dc3-bd43-df7b0ee71dd4")
+		(path "/3a1dac3c-102c-46e8-a8af-e81f9ea432d5/b9e2d8ae-d6a1-4dc3-bd43-df7b0ee71dd4")
 		(sheetname "/MCUs/")
 		(sheetfile "mcus.kicad_sch")
 		(units
@@ -59442,7 +59809,7 @@
 			)
 		)
 		(property ki_fp_filters "R_*")
-		(path "/bd07adf9-511c-4f78-9c21-91371a1c472e/1f0859be-2def-4046-919f-6dd3d3de22f0")
+		(path "/3a1dac3c-102c-46e8-a8af-e81f9ea432d5/1f0859be-2def-4046-919f-6dd3d3de22f0")
 		(sheetname "/MCUs/")
 		(sheetfile "mcus.kicad_sch")
 		(units
@@ -59809,7 +60176,7 @@
 			)
 		)
 		(property ki_fp_filters "R_*")
-		(path "/bd07adf9-511c-4f78-9c21-91371a1c472e/1eafe58f-a6a2-4120-8370-073be6944da6")
+		(path "/3a1dac3c-102c-46e8-a8af-e81f9ea432d5/1eafe58f-a6a2-4120-8370-073be6944da6")
 		(sheetname "/MCUs/")
 		(sheetfile "mcus.kicad_sch")
 		(units
@@ -60135,9 +60502,9 @@
 				)
 			)
 		)
-		(path "/79f164b9-2368-4294-8a80-13510816c559")
+		(path "/282c1d6e-2f0e-4a29-b9f9-abc81a16091f")
 		(sheetname "/")
-		(sheetfile "edge.kicad_sch")
+		(sheetfile "spark.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -60596,7 +60963,7 @@
 			)
 		)
 		(property ki_fp_filters "VSSOP*3x3mm*P0.5mm*")
-		(path "/a3367222-908f-43fd-8692-1220d89bfe2d/11722814-dc24-4424-bc22-b4b0b0572a03")
+		(path "/1cf70a63-bc89-4c77-80be-2385eb922ac9/11722814-dc24-4424-bc22-b4b0b0572a03")
 		(sheetname "/Power/")
 		(sheetfile "power.kicad_sch")
 		(units
@@ -61187,9 +61554,9 @@
 			)
 		)
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
-		(path "/71aead8d-3e20-4edd-9c52-86158db4cfb4")
+		(path "/d1e9df1f-bbc2-4a91-a11a-1753887a8bed")
 		(sheetname "/")
-		(sheetfile "edge.kicad_sch")
+		(sheetfile "spark.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -61682,7 +62049,7 @@
 			)
 		)
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
-		(path "/aecf4e15-7b03-4a48-80e0-ac4b2ea4cebe/8d4cc17f-e99a-4937-9664-e94071b7898d")
+		(path "/4bc1336a-0ac7-4452-a01a-704f056757eb/8d4cc17f-e99a-4937-9664-e94071b7898d")
 		(sheetname "/Analyzer/")
 		(sheetfile "analyzer.kicad_sch")
 		(units
@@ -62197,7 +62564,7 @@
 			)
 		)
 		(property ki_fp_filters "C_*")
-		(path "/d8f78fc9-ef33-475d-a645-b983ce9bc4c5/0f4551af-75d6-4d7e-8fed-e907f37b7138")
+		(path "/7168a8f8-04ea-40a2-91f0-13199f1eab65/0f4551af-75d6-4d7e-8fed-e907f37b7138")
 		(sheetname "/USB/")
 		(sheetfile "usb.kicad_sch")
 		(units
@@ -62692,7 +63059,7 @@
 				)
 			)
 		)
-		(path "/d8f78fc9-ef33-475d-a645-b983ce9bc4c5/f0dd2fb9-7121-463f-a9f6-b5ecde80d397")
+		(path "/7168a8f8-04ea-40a2-91f0-13199f1eab65/f0dd2fb9-7121-463f-a9f6-b5ecde80d397")
 		(sheetname "/USB/")
 		(sheetfile "usb.kicad_sch")
 		(units
@@ -63137,7 +63504,7 @@
 			)
 		)
 		(property ki_fp_filters "C_*")
-		(path "/d8f78fc9-ef33-475d-a645-b983ce9bc4c5/b5686dfa-0da5-4bc3-8f43-db85fb2bff2d")
+		(path "/7168a8f8-04ea-40a2-91f0-13199f1eab65/b5686dfa-0da5-4bc3-8f43-db85fb2bff2d")
 		(sheetname "/USB/")
 		(sheetfile "usb.kicad_sch")
 		(units
@@ -63504,7 +63871,7 @@
 			)
 		)
 		(property ki_fp_filters "C_*")
-		(path "/d8f78fc9-ef33-475d-a645-b983ce9bc4c5/fb627a26-148b-4239-9654-667ab1d6bf81")
+		(path "/7168a8f8-04ea-40a2-91f0-13199f1eab65/fb627a26-148b-4239-9654-667ab1d6bf81")
 		(sheetname "/USB/")
 		(sheetfile "usb.kicad_sch")
 		(units
@@ -63845,7 +64212,7 @@
 			)
 		)
 		(property ki_fp_filters "Texas*RGE0024H*")
-		(path "/a3367222-908f-43fd-8692-1220d89bfe2d/b27115ab-3cdf-4b5d-bd19-501507c50b3b")
+		(path "/1cf70a63-bc89-4c77-80be-2385eb922ac9/b27115ab-3cdf-4b5d-bd19-501507c50b3b")
 		(sheetname "/Power/")
 		(sheetfile "power.kicad_sch")
 		(units
@@ -64856,7 +65223,7 @@
 			)
 		)
 		(property ki_fp_filters "C_*")
-		(path "/d8f78fc9-ef33-475d-a645-b983ce9bc4c5/aa248888-8177-4a23-b01f-96ac199eef2e")
+		(path "/7168a8f8-04ea-40a2-91f0-13199f1eab65/aa248888-8177-4a23-b01f-96ac199eef2e")
 		(sheetname "/USB/")
 		(sheetfile "usb.kicad_sch")
 		(units
@@ -65223,7 +65590,7 @@
 			)
 		)
 		(property ki_fp_filters "C_*")
-		(path "/bd07adf9-511c-4f78-9c21-91371a1c472e/8c012e97-c480-4dbb-9cda-547ea4e26e2b")
+		(path "/3a1dac3c-102c-46e8-a8af-e81f9ea432d5/8c012e97-c480-4dbb-9cda-547ea4e26e2b")
 		(sheetname "/MCUs/")
 		(sheetfile "mcus.kicad_sch")
 		(units
@@ -65590,7 +65957,7 @@
 			)
 		)
 		(property ki_fp_filters "C_*")
-		(path "/bd07adf9-511c-4f78-9c21-91371a1c472e/ee1dd9a7-7d4e-4bb0-8552-f67892df36a1")
+		(path "/3a1dac3c-102c-46e8-a8af-e81f9ea432d5/ee1dd9a7-7d4e-4bb0-8552-f67892df36a1")
 		(sheetname "/MCUs/")
 		(sheetfile "mcus.kicad_sch")
 		(units
@@ -65957,7 +66324,7 @@
 			)
 		)
 		(property ki_fp_filters "R_*")
-		(path "/bd07adf9-511c-4f78-9c21-91371a1c472e/c862d23f-d8c1-417e-98cf-a8e2bdcfa0d3")
+		(path "/3a1dac3c-102c-46e8-a8af-e81f9ea432d5/c862d23f-d8c1-417e-98cf-a8e2bdcfa0d3")
 		(sheetname "/MCUs/")
 		(sheetfile "mcus.kicad_sch")
 		(units
@@ -66290,7 +66657,7 @@
 			)
 		)
 		(property ki_fp_filters "Choke_* *Coil* Inductor_* L_*")
-		(path "/bd07adf9-511c-4f78-9c21-91371a1c472e/603b349a-f75c-4af2-915a-173609903857")
+		(path "/3a1dac3c-102c-46e8-a8af-e81f9ea432d5/603b349a-f75c-4af2-915a-173609903857")
 		(sheetname "/MCUs/")
 		(sheetfile "mcus.kicad_sch")
 		(units
@@ -66706,7 +67073,7 @@
 			)
 		)
 		(property ki_fp_filters "C_*")
-		(path "/aecf4e15-7b03-4a48-80e0-ac4b2ea4cebe/029557ab-b807-4797-a7aa-317fb53136a9")
+		(path "/4bc1336a-0ac7-4452-a01a-704f056757eb/029557ab-b807-4797-a7aa-317fb53136a9")
 		(sheetname "/Analyzer/")
 		(sheetfile "analyzer.kicad_sch")
 		(units
@@ -67073,9 +67440,9 @@
 			)
 		)
 		(property ki_fp_filters "R_*")
-		(path "/f83b3142-fcc7-431a-9e5f-933610d3d95e")
+		(path "/a351bad9-e66d-4217-afe0-83bc7509e166")
 		(sheetname "/")
-		(sheetfile "edge.kicad_sch")
+		(sheetfile "spark.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -67440,7 +67807,7 @@
 			)
 		)
 		(property ki_fp_filters "R_*")
-		(path "/a3367222-908f-43fd-8692-1220d89bfe2d/70a0d3ba-c883-4fa8-9a6d-6f6ded35975b")
+		(path "/1cf70a63-bc89-4c77-80be-2385eb922ac9/70a0d3ba-c883-4fa8-9a6d-6f6ded35975b")
 		(sheetname "/Power/")
 		(sheetfile "power.kicad_sch")
 		(units
@@ -67807,7 +68174,7 @@
 			)
 		)
 		(property ki_fp_filters "C_*")
-		(path "/a3367222-908f-43fd-8692-1220d89bfe2d/405da16f-99c0-4e09-92a4-dcd6276bc614")
+		(path "/1cf70a63-bc89-4c77-80be-2385eb922ac9/405da16f-99c0-4e09-92a4-dcd6276bc614")
 		(sheetname "/Power/")
 		(sheetfile "power.kicad_sch")
 		(units
@@ -68154,7 +68521,7 @@
 			)
 		)
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
-		(path "/aecf4e15-7b03-4a48-80e0-ac4b2ea4cebe/ec0f82c7-ff91-4951-84ac-18e51adc6987")
+		(path "/4bc1336a-0ac7-4452-a01a-704f056757eb/ec0f82c7-ff91-4951-84ac-18e51adc6987")
 		(sheetname "/Analyzer/")
 		(sheetfile "analyzer.kicad_sch")
 		(units
@@ -68669,7 +69036,7 @@
 			)
 		)
 		(property ki_fp_filters "R_*")
-		(path "/d8f78fc9-ef33-475d-a645-b983ce9bc4c5/6289af68-e229-4661-bf8c-8373ea801ef3")
+		(path "/7168a8f8-04ea-40a2-91f0-13199f1eab65/6289af68-e229-4661-bf8c-8373ea801ef3")
 		(sheetname "/USB/")
 		(sheetfile "usb.kicad_sch")
 		(units
@@ -69036,7 +69403,7 @@
 			)
 		)
 		(property ki_fp_filters "C_*")
-		(path "/d8f78fc9-ef33-475d-a645-b983ce9bc4c5/51575cb3-36f0-44d0-bbce-169fb621413a")
+		(path "/7168a8f8-04ea-40a2-91f0-13199f1eab65/51575cb3-36f0-44d0-bbce-169fb621413a")
 		(sheetname "/USB/")
 		(sheetfile "usb.kicad_sch")
 		(units
@@ -69376,7 +69743,7 @@
 			)
 		)
 		(property ki_fp_filters "VSSOP*3x3mm*P0.5mm*")
-		(path "/aecf4e15-7b03-4a48-80e0-ac4b2ea4cebe/dddd2973-1556-4064-84d7-2d1022fb37db")
+		(path "/4bc1336a-0ac7-4452-a01a-704f056757eb/dddd2973-1556-4064-84d7-2d1022fb37db")
 		(sheetname "/Analyzer/")
 		(sheetfile "analyzer.kicad_sch")
 		(units
@@ -69987,7 +70354,7 @@
 			)
 		)
 		(property ki_fp_filters "R_*")
-		(path "/bd07adf9-511c-4f78-9c21-91371a1c472e/c6893e2c-e1de-4b01-9dad-d363f953e63d")
+		(path "/3a1dac3c-102c-46e8-a8af-e81f9ea432d5/c6893e2c-e1de-4b01-9dad-d363f953e63d")
 		(sheetname "/MCUs/")
 		(sheetfile "mcus.kicad_sch")
 		(units
@@ -70354,7 +70721,7 @@
 			)
 		)
 		(property ki_fp_filters "C_*")
-		(path "/d8f78fc9-ef33-475d-a645-b983ce9bc4c5/77cb583a-fcda-4c48-b3f8-aaa9dbfebfe0")
+		(path "/7168a8f8-04ea-40a2-91f0-13199f1eab65/77cb583a-fcda-4c48-b3f8-aaa9dbfebfe0")
 		(sheetname "/USB/")
 		(sheetfile "usb.kicad_sch")
 		(units
@@ -70648,9 +71015,9 @@
 			)
 		)
 		(property ki_fp_filters "Connector*:*_1x??_*")
-		(path "/704df92e-1118-4915-a94c-80681e5e99f2")
+		(path "/0f086381-d97d-48a5-a514-6444a57d099c")
 		(sheetname "/")
-		(sheetfile "edge.kicad_sch")
+		(sheetfile "spark.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -71010,7 +71377,7 @@
 			)
 		)
 		(property ki_fp_filters "USB*C*Receptacle*")
-		(path "/d8f78fc9-ef33-475d-a645-b983ce9bc4c5/1156caf2-9dc6-49fe-9fa0-65b7c95742f4")
+		(path "/7168a8f8-04ea-40a2-91f0-13199f1eab65/1156caf2-9dc6-49fe-9fa0-65b7c95742f4")
 		(sheetname "/USB/")
 		(sheetfile "usb.kicad_sch")
 		(units
@@ -71803,7 +72170,7 @@
 			)
 		)
 		(property ki_fp_filters "C_*")
-		(path "/aecf4e15-7b03-4a48-80e0-ac4b2ea4cebe/19cce8af-e2d9-4a00-b5d4-597685ce0db8")
+		(path "/4bc1336a-0ac7-4452-a01a-704f056757eb/19cce8af-e2d9-4a00-b5d4-597685ce0db8")
 		(sheetname "/Analyzer/")
 		(sheetfile "analyzer.kicad_sch")
 		(units
@@ -72150,9 +72517,9 @@
 			)
 		)
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
-		(path "/537905ee-b142-4831-b1d1-484b2bc7c323")
+		(path "/43d102a0-3e9f-44d1-92f1-48480c9bcb3f")
 		(sheetname "/")
-		(sheetfile "edge.kicad_sch")
+		(sheetfile "spark.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -72665,7 +73032,7 @@
 			)
 		)
 		(property ki_fp_filters "R_*")
-		(path "/d8f78fc9-ef33-475d-a645-b983ce9bc4c5/1242a668-f727-486c-85b7-65c72116d141")
+		(path "/7168a8f8-04ea-40a2-91f0-13199f1eab65/1242a668-f727-486c-85b7-65c72116d141")
 		(sheetname "/USB/")
 		(sheetfile "usb.kicad_sch")
 		(units
@@ -73032,7 +73399,7 @@
 			)
 		)
 		(property ki_fp_filters "C_*")
-		(path "/a3367222-908f-43fd-8692-1220d89bfe2d/661a86d1-0ee2-4512-94f9-86c86e76483a")
+		(path "/1cf70a63-bc89-4c77-80be-2385eb922ac9/661a86d1-0ee2-4512-94f9-86c86e76483a")
 		(sheetname "/Power/")
 		(sheetfile "power.kicad_sch")
 		(units
@@ -73399,7 +73766,7 @@
 			)
 		)
 		(property ki_fp_filters "R_*")
-		(path "/aecf4e15-7b03-4a48-80e0-ac4b2ea4cebe/049df939-be17-495d-8d5a-90d3f1594014")
+		(path "/4bc1336a-0ac7-4452-a01a-704f056757eb/049df939-be17-495d-8d5a-90d3f1594014")
 		(sheetname "/Analyzer/")
 		(sheetfile "analyzer.kicad_sch")
 		(units
@@ -73766,7 +74133,7 @@
 			)
 		)
 		(property ki_fp_filters "C_*")
-		(path "/bd07adf9-511c-4f78-9c21-91371a1c472e/c35815c7-43e0-4086-b17f-e0b41fbbdee0")
+		(path "/3a1dac3c-102c-46e8-a8af-e81f9ea432d5/c35815c7-43e0-4086-b17f-e0b41fbbdee0")
 		(sheetname "/MCUs/")
 		(sheetfile "mcus.kicad_sch")
 		(units
@@ -74127,7 +74494,7 @@
 			)
 		)
 		(property ki_fp_filters "R_*")
-		(path "/a3367222-908f-43fd-8692-1220d89bfe2d/ce1c4db6-aa95-4745-b877-c36f6836c23d")
+		(path "/1cf70a63-bc89-4c77-80be-2385eb922ac9/ce1c4db6-aa95-4745-b877-c36f6836c23d")
 		(sheetname "/Power/")
 		(sheetfile "power.kicad_sch")
 		(units
@@ -74541,7 +74908,7 @@
 			)
 		)
 		(property ki_fp_filters "C_*")
-		(path "/bd07adf9-511c-4f78-9c21-91371a1c472e/0acbc0a7-c6db-48c9-9edf-30b7402eeaed")
+		(path "/3a1dac3c-102c-46e8-a8af-e81f9ea432d5/0acbc0a7-c6db-48c9-9edf-30b7402eeaed")
 		(sheetname "/MCUs/")
 		(sheetfile "mcus.kicad_sch")
 		(units
@@ -74843,8 +75210,9 @@
 			)
 		)
 		(property ki_fp_filters "Connector*:*_1x??_*")
+		(path "/6408e9c1-8896-4bd4-8ac2-10347fd1a7bc")
 		(sheetname "/")
-		(sheetfile "edge.kicad_sch")
+		(sheetfile "spark.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -75369,7 +75737,7 @@
 			)
 		)
 		(property ki_fp_filters "R_*")
-		(path "/d8f78fc9-ef33-475d-a645-b983ce9bc4c5/3593a827-92fd-4aa2-9c94-936c5b19cde2")
+		(path "/7168a8f8-04ea-40a2-91f0-13199f1eab65/3593a827-92fd-4aa2-9c94-936c5b19cde2")
 		(sheetname "/USB/")
 		(sheetfile "usb.kicad_sch")
 		(units
@@ -75684,7 +76052,7 @@
 			)
 		)
 		(property ki_fp_filters "SOT?23*")
-		(path "/d8f78fc9-ef33-475d-a645-b983ce9bc4c5/c121f728-da66-4b81-b44e-4befe1c0f1a8")
+		(path "/7168a8f8-04ea-40a2-91f0-13199f1eab65/c121f728-da66-4b81-b44e-4befe1c0f1a8")
 		(sheetname "/USB/")
 		(sheetfile "usb.kicad_sch")
 		(units
@@ -76275,7 +76643,7 @@
 			)
 		)
 		(property ki_fp_filters "R_*")
-		(path "/aecf4e15-7b03-4a48-80e0-ac4b2ea4cebe/48876d1c-b8ec-4a9b-acc7-fd1aabc6a50e")
+		(path "/4bc1336a-0ac7-4452-a01a-704f056757eb/48876d1c-b8ec-4a9b-acc7-fd1aabc6a50e")
 		(sheetname "/Analyzer/")
 		(sheetfile "analyzer.kicad_sch")
 		(units
@@ -76359,360 +76727,6 @@
 		)
 		(embedded_fonts no)
 		(model "${KICAD10_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.step"
-			(offset
-				(xyz 0 0 0)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz 0 0 0)
-			)
-		)
-	)
-	(footprint "Resistor_SMD:R_0603_1608Metric"
-		(layer "F.Cu")
-		(uuid "e62e5cb9-f00e-4159-b920-0438dfa68097")
-		(at 174.1 121.9 180)
-		(descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
-		(tags "resistor")
-		(property "Reference" "R53"
-			(at 2.9 -0.2 0)
-			(layer "F.SilkS")
-			(uuid "aec1d823-89c3-4a5b-b2bd-495ea418f590")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Value" "300k"
-			(at 0 1.43 0)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "289acac4-e225-4b3e-9afc-3a2d1f34ebc2")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 0 0 0)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "0643fc98-aca9-4d01-98bb-d5adb7b65746")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 0 0 0)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "de7819b8-1732-4387-b3ad-2cf316241f6f")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
-			(at 0 0 0)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "5319e27d-9bad-4ad8-9232-b2d511f35804")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "KLC_S4.2_DVDD" ""
-			(at 0 0 180)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "7c9bc188-085d-4eff-92b7-8a7a7959e408")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "KLC_S4.2_VREG_VOUT" ""
-			(at 0 0 180)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "699b36f4-8305-42c8-8d57-d15b1b4c02be")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Sim.Device" ""
-			(at 0 0 180)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "677131c9-ab9f-4286-80cb-3895c0a7566f")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Sim.Pins" ""
-			(at 0 0 180)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "7164619e-bd70-4799-a426-7314da61ec02")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "ARROW_ELECTRONICS-PURCHASE-URL" ""
-			(at 0 0 180)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "1b9343ff-e3bf-42db-b81a-19457f96c24c")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "AVAILABILITY" ""
-			(at 0 0 180)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "60ba1558-bbbc-425c-8104-f6a83f1f8ab8")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "DIGIKEY-PURCHASE-URL" ""
-			(at 0 0 180)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "748f1d1d-0717-4811-86d0-73b0ac5175e1")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "MOUSER-PURCHASE-URL" ""
-			(at 0 0 180)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "e2cbd5d6-ded3-41ce-8461-6b1ff04f7858")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "PRICE" ""
-			(at 0 0 180)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "09523737-e582-49f1-a9b9-91550876745e")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "TEXAS_INSTRUMENTS-PURCHASE-URL" ""
-			(at 0 0 180)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "47f309dd-583d-497d-be07-e77278904cfb")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "MPN" "0402WGF3003TCE"
-			(at 0 0 180)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "3469c8be-517d-451a-91f6-fde9406da54d")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "OC_FARNELL" ""
-			(at 0 0 180)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "c16d7549-7859-4241-bf20-342eae1c764b")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "OC_NEWARK" ""
-			(at 0 0 180)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "201dfa6b-3ae2-47bc-b8c2-fbe3e6b07e09")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "PACKAGE" ""
-			(at 0 0 180)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "3dc5dede-13c0-4818-adb2-727237c51637")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "SUPPLIER" ""
-			(at 0 0 180)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "8a8d4043-e5f1-4045-b0a2-ccf33af027b5")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property ki_fp_filters "R_*")
-		(path "/a3367222-908f-43fd-8692-1220d89bfe2d/eb8043a2-1095-4a12-b48a-148d4dd64528")
-		(sheetname "/Power/")
-		(sheetfile "power.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
-		(attr smd)
-		(duplicate_pad_numbers_are_jumpers no)
-		(fp_line
-			(start -0.237258 0.5225)
-			(end 0.237258 0.5225)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "de1ac421-418b-40fb-a47f-4f6539479f36")
-		)
-		(fp_line
-			(start -0.237258 -0.5225)
-			(end 0.237258 -0.5225)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "6023366e-95d1-416f-8112-db1f024cc534")
-		)
-		(fp_rect
-			(start -1.48 -0.73)
-			(end 1.48 0.73)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(fill no)
-			(layer "F.CrtYd")
-			(uuid "b3ee0b2c-a8bd-4622-a0cd-edd080afff5e")
-		)
-		(fp_rect
-			(start -0.8 -0.4125)
-			(end 0.8 0.4125)
-			(stroke
-				(width 0.1)
-				(type solid)
-			)
-			(fill no)
-			(layer "F.Fab")
-			(uuid "c214dbc6-a0f5-43f3-a4d7-60f159abf7fe")
-		)
-		(fp_text user "${REFERENCE}"
-			(at 0 0 0)
-			(layer "F.Fab")
-			(uuid "22f43572-2cee-44fd-b433-ea9d2566af7c")
-			(effects
-				(font
-					(size 0.4 0.4)
-					(thickness 0.06)
-				)
-			)
-		)
-		(pad "1" smd roundrect
-			(at -0.825 0 180)
-			(size 0.8 0.95)
-			(layers "F.Cu" "F.Mask" "F.Paste")
-			(roundrect_rratio 0.25)
-			(net "Net-(U14-UVLO)")
-			(pintype "passive")
-			(uuid "61e7fed6-859b-479f-88ed-56080b461a20")
-		)
-		(pad "2" smd roundrect
-			(at 0.825 0 180)
-			(size 0.8 0.95)
-			(layers "F.Cu" "F.Mask" "F.Paste")
-			(roundrect_rratio 0.25)
-			(net "OUTTP_IN_SYS")
-			(pintype "passive")
-			(uuid "43592466-5c40-420d-8525-f3425ed90f65")
-		)
-		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0603_1608Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -76996,7 +77010,7 @@
 			)
 		)
 		(property ki_fp_filters "R_*")
-		(path "/d8f78fc9-ef33-475d-a645-b983ce9bc4c5/9e7deb30-b7df-4da4-85b3-a61555e96e66")
+		(path "/7168a8f8-04ea-40a2-91f0-13199f1eab65/9e7deb30-b7df-4da4-85b3-a61555e96e66")
 		(sheetname "/USB/")
 		(sheetfile "usb.kicad_sch")
 		(units
@@ -77363,7 +77377,7 @@
 			)
 		)
 		(property ki_fp_filters "C_*")
-		(path "/a3367222-908f-43fd-8692-1220d89bfe2d/a1a4c898-f68c-46d4-b29d-ec954c09060a")
+		(path "/1cf70a63-bc89-4c77-80be-2385eb922ac9/a1a4c898-f68c-46d4-b29d-ec954c09060a")
 		(sheetname "/Power/")
 		(sheetfile "power.kicad_sch")
 		(units
@@ -77730,7 +77744,7 @@
 			)
 		)
 		(property ki_fp_filters "R_*")
-		(path "/a3367222-908f-43fd-8692-1220d89bfe2d/b8526295-bb06-4209-8350-08d2461c39fb")
+		(path "/1cf70a63-bc89-4c77-80be-2385eb922ac9/b8526295-bb06-4209-8350-08d2461c39fb")
 		(sheetname "/Power/")
 		(sheetfile "power.kicad_sch")
 		(units
@@ -78097,7 +78111,7 @@
 			)
 		)
 		(property ki_fp_filters "R_*")
-		(path "/bd07adf9-511c-4f78-9c21-91371a1c472e/4d92f726-02bf-4af3-a45c-f261e71845cf")
+		(path "/3a1dac3c-102c-46e8-a8af-e81f9ea432d5/4d92f726-02bf-4af3-a45c-f261e71845cf")
 		(sheetname "/MCUs/")
 		(sheetfile "mcus.kicad_sch")
 		(units
@@ -78412,7 +78426,7 @@
 			)
 		)
 		(property ki_fp_filters "*SOIC*5.3x5.3mm*P1.27mm*")
-		(path "/bd07adf9-511c-4f78-9c21-91371a1c472e/14cf28a4-d528-438d-9d48-bab62f4d26d9")
+		(path "/3a1dac3c-102c-46e8-a8af-e81f9ea432d5/14cf28a4-d528-438d-9d48-bab62f4d26d9")
 		(sheetname "/MCUs/")
 		(sheetfile "mcus.kicad_sch")
 		(units
@@ -79003,7 +79017,7 @@
 			)
 		)
 		(property ki_fp_filters "C_*")
-		(path "/d8f78fc9-ef33-475d-a645-b983ce9bc4c5/324ac26b-4c7f-41ae-a2b9-f506c8acbe9a")
+		(path "/7168a8f8-04ea-40a2-91f0-13199f1eab65/324ac26b-4c7f-41ae-a2b9-f506c8acbe9a")
 		(sheetname "/USB/")
 		(sheetfile "usb.kicad_sch")
 		(units
@@ -79370,7 +79384,7 @@
 			)
 		)
 		(property ki_fp_filters "C_*")
-		(path "/d8f78fc9-ef33-475d-a645-b983ce9bc4c5/b7a4872a-d364-42e9-97dc-5f6f2981c042")
+		(path "/7168a8f8-04ea-40a2-91f0-13199f1eab65/b7a4872a-d364-42e9-97dc-5f6f2981c042")
 		(sheetname "/USB/")
 		(sheetfile "usb.kicad_sch")
 		(units
@@ -79657,7 +79671,20 @@
 				)
 			)
 		)
-		(path "/bd07adf9-511c-4f78-9c21-91371a1c472e/e314c5bc-d958-4242-bbb9-45ffb38bfc2b")
+		(property "MPN" "TS-1088-AR02016"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "68fbe2b5-a763-4d62-8e37-27f64545b36e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(path "/3a1dac3c-102c-46e8-a8af-e81f9ea432d5/e314c5bc-d958-4242-bbb9-45ffb38bfc2b")
 		(sheetname "/MCUs/")
 		(sheetfile "mcus.kicad_sch")
 		(units
@@ -79666,7 +79693,7 @@
 				(pins "1" "2")
 			)
 		)
-		(attr smd exclude_from_bom)
+		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -2 -1.45)
@@ -80102,7 +80129,7 @@
 			)
 		)
 		(property ki_fp_filters "R_*")
-		(path "/a3367222-908f-43fd-8692-1220d89bfe2d/01154389-3ca3-4c65-9d97-14f041ce5fc0")
+		(path "/1cf70a63-bc89-4c77-80be-2385eb922ac9/01154389-3ca3-4c65-9d97-14f041ce5fc0")
 		(sheetname "/Power/")
 		(sheetfile "power.kicad_sch")
 		(units
@@ -80469,7 +80496,7 @@
 			)
 		)
 		(property ki_fp_filters "C_*")
-		(path "/a3367222-908f-43fd-8692-1220d89bfe2d/dc322a77-20ac-4c9e-95eb-d9aef957df92")
+		(path "/1cf70a63-bc89-4c77-80be-2385eb922ac9/dc322a77-20ac-4c9e-95eb-d9aef957df92")
 		(sheetname "/Power/")
 		(sheetfile "power.kicad_sch")
 		(units
@@ -80836,7 +80863,7 @@
 			)
 		)
 		(property ki_fp_filters "C_*")
-		(path "/bd07adf9-511c-4f78-9c21-91371a1c472e/31c3e6fc-9da5-4f86-8c50-54a19fd5dda4")
+		(path "/3a1dac3c-102c-46e8-a8af-e81f9ea432d5/31c3e6fc-9da5-4f86-8c50-54a19fd5dda4")
 		(sheetname "/MCUs/")
 		(sheetfile "mcus.kicad_sch")
 		(units
@@ -81183,9 +81210,9 @@
 			)
 		)
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
-		(path "/9aecae99-a493-4ea2-958c-54a7ef56dc5f")
+		(path "/7ee3d0b1-f5fc-4cb5-ac94-0fac92e7863c")
 		(sheetname "/")
-		(sheetfile "edge.kicad_sch")
+		(sheetfile "spark.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -81698,7 +81725,7 @@
 			)
 		)
 		(property ki_fp_filters "C_*")
-		(path "/bd07adf9-511c-4f78-9c21-91371a1c472e/c61b65cb-0160-4def-bd2b-fcafaf70f8b9")
+		(path "/3a1dac3c-102c-46e8-a8af-e81f9ea432d5/c61b65cb-0160-4def-bd2b-fcafaf70f8b9")
 		(sheetname "/MCUs/")
 		(sheetfile "mcus.kicad_sch")
 		(units
@@ -82102,7 +82129,7 @@
 				)
 			)
 		)
-		(path "/d8f78fc9-ef33-475d-a645-b983ce9bc4c5/6f6759b6-28a6-4d4f-8248-54fa3fd4b745")
+		(path "/7168a8f8-04ea-40a2-91f0-13199f1eab65/6f6759b6-28a6-4d4f-8248-54fa3fd4b745")
 		(sheetname "/USB/")
 		(sheetfile "usb.kicad_sch")
 		(units
@@ -82853,7 +82880,7 @@
 			)
 		)
 		(property ki_fp_filters "R_*")
-		(path "/d8f78fc9-ef33-475d-a645-b983ce9bc4c5/b9c01c9e-4461-4155-924b-f155463a857d")
+		(path "/7168a8f8-04ea-40a2-91f0-13199f1eab65/b9c01c9e-4461-4155-924b-f155463a857d")
 		(sheetname "/USB/")
 		(sheetfile "usb.kicad_sch")
 		(units
@@ -83220,9 +83247,9 @@
 			)
 		)
 		(property ki_fp_filters "R_*")
-		(path "/331a7738-a9a6-4249-aa54-e4bb36fd3dde")
+		(path "/7bf010f1-b343-4fc7-b2fc-1072f9a7867c")
 		(sheetname "/")
-		(sheetfile "edge.kicad_sch")
+		(sheetfile "spark.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -83587,7 +83614,7 @@
 			)
 		)
 		(property ki_fp_filters "R_*")
-		(path "/bd07adf9-511c-4f78-9c21-91371a1c472e/e45817c8-555e-4ff1-a68c-6b61b764deb6")
+		(path "/3a1dac3c-102c-46e8-a8af-e81f9ea432d5/e45817c8-555e-4ff1-a68c-6b61b764deb6")
 		(sheetname "/MCUs/")
 		(sheetfile "mcus.kicad_sch")
 		(units
@@ -83959,7 +83986,7 @@
 			)
 		)
 		(property ki_fp_filters "USB*C*Receptacle*")
-		(path "/d8f78fc9-ef33-475d-a645-b983ce9bc4c5/c64361f2-57d5-478e-a9ab-b37bd45c3c3c")
+		(path "/7168a8f8-04ea-40a2-91f0-13199f1eab65/c64361f2-57d5-478e-a9ab-b37bd45c3c3c")
 		(sheetname "/USB/")
 		(sheetfile "usb.kicad_sch")
 		(units
@@ -84752,7 +84779,7 @@
 			)
 		)
 		(property ki_fp_filters "R_*")
-		(path "/aecf4e15-7b03-4a48-80e0-ac4b2ea4cebe/f8b956b2-fa7a-4149-882a-45096d8fa705")
+		(path "/4bc1336a-0ac7-4452-a01a-704f056757eb/f8b956b2-fa7a-4149-882a-45096d8fa705")
 		(sheetname "/Analyzer/")
 		(sheetfile "analyzer.kicad_sch")
 		(units
@@ -99287,12 +99314,12 @@
 		(uuid "1b029115-0731-43ae-8f6b-23d752b885ce")
 	)
 	(segment
-		(start 174.1 119.65)
-		(end 173.275 120.475)
+		(start 173.48 120.27)
+		(end 174.1 119.65)
 		(width 0.3)
 		(layer "F.Cu")
 		(net "OUTTP_IN_SYS")
-		(uuid "225f5a9d-ee08-4bae-b224-dd06ed1fd2e4")
+		(uuid "1d792862-778d-4e1a-8f1f-85695a226647")
 	)
 	(segment
 		(start 165.594871 122.339991)
@@ -99311,28 +99338,12 @@
 		(uuid "28dd36e0-af1d-4180-885e-e2ca46e0d3f7")
 	)
 	(segment
-		(start 173.275 120.475)
-		(end 173.275 121.9)
-		(width 0.3)
-		(layer "F.Cu")
-		(net "OUTTP_IN_SYS")
-		(uuid "2da3b168-173f-45cd-a644-86d50eb64b9d")
-	)
-	(segment
 		(start 165.894871 122.639991)
 		(end 165.594871 122.339991)
 		(width 0.3)
 		(layer "F.Cu")
 		(net "OUTTP_IN_SYS")
 		(uuid "356cb1b8-a66a-47bb-98c0-8c7093588910")
-	)
-	(segment
-		(start 171.585009 123.589991)
-		(end 173.275 121.9)
-		(width 0.3)
-		(layer "F.Cu")
-		(net "OUTTP_IN_SYS")
-		(uuid "43677b5b-ea12-4448-bef7-1135c03c0d3e")
 	)
 	(segment
 		(start 169.194871 122.639991)
@@ -99343,12 +99354,20 @@
 		(uuid "4ef5d195-e10f-4527-9c2e-e36475be4c59")
 	)
 	(segment
-		(start 169.194871 123.589991)
-		(end 171.585009 123.589991)
+		(start 173.585 121.755)
+		(end 173.48 121.65)
 		(width 0.3)
 		(layer "F.Cu")
 		(net "OUTTP_IN_SYS")
-		(uuid "9764f08f-e49d-4697-8ca6-89d4d2171b04")
+		(uuid "74cd7d22-f58f-4201-b2fb-93edb8326bf2")
+	)
+	(segment
+		(start 171.750009 123.589991)
+		(end 173.585 121.755)
+		(width 0.3)
+		(layer "F.Cu")
+		(net "OUTTP_IN_SYS")
+		(uuid "8e941fc8-b6c7-4a73-9d60-10af3ab62255")
 	)
 	(segment
 		(start 166.494871 123.589991)
@@ -99357,6 +99376,22 @@
 		(layer "F.Cu")
 		(net "OUTTP_IN_SYS")
 		(uuid "a14376b1-0349-42e1-89e0-c93b0da31d8c")
+	)
+	(segment
+		(start 169.194871 123.589991)
+		(end 171.750009 123.589991)
+		(width 0.3)
+		(layer "F.Cu")
+		(net "OUTTP_IN_SYS")
+		(uuid "a49d64b2-7370-412d-86d7-992558c811fb")
+	)
+	(segment
+		(start 173.48 121.65)
+		(end 173.48 120.27)
+		(width 0.3)
+		(layer "F.Cu")
+		(net "OUTTP_IN_SYS")
+		(uuid "a87d88f0-e7b7-4bb3-9f7b-16d880da2da3")
 	)
 	(segment
 		(start 166.494871 122.639991)
@@ -101351,6 +101386,30 @@
 		(uuid "a56d1b58-4919-4488-960f-5a315e3b7e82")
 	)
 	(segment
+		(start 174.925 121.435)
+		(end 174.605 121.755)
+		(width 0.2)
+		(layer "F.Cu")
+		(net "Net-(U14-UVLO)")
+		(uuid "250b4305-ff49-4747-8cf0-cbe6e827ff64")
+	)
+	(segment
+		(start 174.925 120.275)
+		(end 175.3875 119.8125)
+		(width 0.2)
+		(layer "F.Cu")
+		(net "Net-(U14-UVLO)")
+		(uuid "3a1348a5-d722-4f99-87b3-5fe0e6e45b65")
+	)
+	(segment
+		(start 174.925 120.275)
+		(end 174.925 121.435)
+		(width 0.2)
+		(layer "F.Cu")
+		(net "Net-(U14-UVLO)")
+		(uuid "b9a27f23-f277-4d95-af9d-840a5c072c96")
+	)
+	(segment
 		(start 161.230238 80.357957)
 		(end 161.180238 80.407957)
 		(width 0.5)
@@ -102101,22 +102160,6 @@
 		(layer "F.Cu")
 		(net "Net-(U12-XIN)")
 		(uuid "f3bb1520-33c3-4db5-8bd7-65e5597c15ad")
-	)
-	(segment
-		(start 174.925 120.275)
-		(end 175.3875 119.8125)
-		(width 0.2)
-		(layer "F.Cu")
-		(net "Net-(U14-UVLO)")
-		(uuid "3a1348a5-d722-4f99-87b3-5fe0e6e45b65")
-	)
-	(segment
-		(start 174.925 121.9)
-		(end 174.925 120.275)
-		(width 0.2)
-		(layer "F.Cu")
-		(net "Net-(U14-UVLO)")
-		(uuid "6182e02a-60e5-43e7-9e8a-8d141cc93971")
 	)
 	(segment
 		(start 174.439678 73.515637)

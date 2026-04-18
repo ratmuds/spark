@@ -2412,30 +2412,6 @@
 			(embedded_fonts no)
 		)
 	)
-	(text "double check ALL resistors\nlike i REALLY dont know if they correct\n"
-		(exclude_from_sim no)
-		(at 252.73 103.886 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-				(thickness 0.254)
-				(bold yes)
-			)
-		)
-		(uuid "bc6970c5-795b-4863-a1f6-12f3a8a6e20e")
-	)
-	(text "double check ALL resistors\nlike i REALLY dont know if they correct\n"
-		(exclude_from_sim no)
-		(at 242.062 152.4 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-				(thickness 0.254)
-				(bold yes)
-			)
-		)
-		(uuid "fad5929a-4f0c-4191-935b-1c0722b5efc0")
-	)
 	(junction
 		(at 171.45 77.47)
 		(diameter 0)
@@ -14312,7 +14288,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 196.85 126.492 90)
 			(hide yes)
 			(show_name no)
