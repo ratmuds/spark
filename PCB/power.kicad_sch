@@ -6598,7 +6598,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 59.9948 58.42 0)
 			(hide yes)
 			(show_name no)
@@ -6719,7 +6719,7 @@
 				)
 			)
 		)
-		(property "MPN" "CGA2B2X7R1E223KT0Y0F"
+		(property "MPN" "CL21A226MAQNNNE"
 			(at 60.96 62.23 0)
 			(hide yes)
 			(show_name no)
