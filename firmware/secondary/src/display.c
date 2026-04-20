@@ -98,6 +98,13 @@ static void st7735_init() {
     sleep_ms(100);
 }
 
+void display_init(void) {
+    spi_init(SPI_PORT, 24000000);
+    spi_master_init();
+    
+    st7735_init();
+}
+
 void st7735_flush(lv_display_t * disp, const lv_area_t * area, uint8_t * px_map) {
     uint16_t * colors = (uint16_t *)px_map;
     int32_t width = lv_area_get_width(area);
@@ -133,4 +140,32 @@ void display_init(void) {
 
     // Init hardware explicitly before rendering!
     st7735_init();
+}
+// SPI Master configuration
+#define SPI_MASTER_PORT spi0 // or spi1
+#define SPI_MASTER_TX   4
+#define SPI_MASTER_CS   5
+#define SPI_MASTER_SCK  6
+#define SPI_MASTER_RX   7
+
+void spi_master_init(void) {
+    spi_init(spi0, 1000000);
+    gpio_set_function(SPI_MASTER_TX, GPIO_FUNC_SPI);
+    gpio_set_function(SPI_MASTER_SCK, GPIO_FUNC_SPI);
+    gpio_set_function(SPI_MASTER_RX, GPIO_FUNC_SPI);
+    gpio_init(SPI_MASTER_CS);
+    gpio_set_dir(SPI_MASTER_CS, GPIO_OUT);
+    gpio_put(SPI_MASTER_CS, 1);
+}
+
+uint8_t spi_master_transceive(uint8_t command) {
+    uint8_t response = 0;
+    gpio_put(SPI_MASTER_CS, 0);
+    sleep_us(10);
+    spi_write_blocking(spi0, &command, 1);
+    sleep_us(50);
+    spi_read_blocking(spi0, 0xFF, &response, 1);
+    sleep_us(10);
+    gpio_put(SPI_MASTER_CS, 1);
+    return response;
 }
